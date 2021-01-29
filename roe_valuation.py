@@ -16,6 +16,10 @@ stock_type = {
 'kosdaq': 'kosdaqMkt'
 }
 
+#시작일 종료일
+start = str(datetime.now())[:10]
+end = str(datetime.now())[:10]
+
 # 회사명으로 주식 종목 코드를 획득할 수 있도록 하는 함수
 def get_code(df, name):
     code = df.query("name=='{}'".format(name))['code'].to_string(index=False)
@@ -67,34 +71,46 @@ code_df = code_df[['회사명', '종목코드']]
 # data frame title 변경 '회사명' = name, 종목코드 = 'code'
 code_df = code_df.rename(columns={'회사명': 'name', '종목코드': 'code'})
 
-code_df = code_df.head(1)
+code_df = code_df.head(10)
 
-stock_frame = pd.DataFrame(columns = ['code','name','roe','stockholder','all_stock','my_stock'])
+stock_frame = pd.DataFrame(columns = ['code','name','roe','roe_avg','stockholder','all_stock','my_stock','price',
+                                      'value_fare','price_fare',
+                                      'value_10','price_10',
+                                      'value_20','price_20',
+                                      'value_30','price_30',
+                                      'value_50','price_50'
+                                     ])
+
+
 
 for k_code, k_name in zip(code_df['code'],code_df['name']):
+    roe_avg = 0
+
     try:
+        print(k_code, k_name, 'Start-->>')
+
         #ROE줍줍
         url ="http://comp.fnguide.com/SVO2/ASP/SVD_FinanceRatio.asp?pGB=1&gicode=A" + k_code[:-3] + "&cID=&MenuYn=Y&ReportGB=&NewMenuID=104&stkGb=701"
-        #print(url)
         f = urllib.request.urlopen(url).read()
         soup=BeautifulSoup(f, 'html.parser')
         roe_cells = soup.find('tr', {'id': "p_grid1_18"}).find_all('td')
-        print(roe_cells[4].string)
+        
+        roe_avg = ((float(roe_cells[3].string)*3) + (float(roe_cells[2].string)*2) + (float(roe_cells[1].string)*1))/6
+        print('roe_ok')
 
         #지배주주 줍줍
         #http://comp.fnguide.com/SVO2/ASP/SVD_Finance.asp?pGB=1&gicode=A155660&cID=&MenuYn=Y&ReportGB=&NewMenuID=103&stkGb=701
         url ="http://comp.fnguide.com/SVO2/ASP/SVD_Finance.asp?pGB=1&gicode=A" + k_code[:-3] + "&cID=&MenuYn=Y&ReportGB=&NewMenuID=103&stkGb=701"
-        #print(url)
+
         f = urllib.request.urlopen(url).read()
         soup=BeautifulSoup(f, 'html.parser')
         sh_cells = soup.find('tr', {'id': "p_grid2_10"}).find_all('td')
-        
-        print((sh_cells[3].string).replace(',',''))
+        print('holder_ok')
 
         ##발행주식수 줍줍
         #http://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A010130&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701
         url ="http://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A" + k_code[:-3] + "&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701"
-        print(url)
+        
         f = urllib.request.urlopen(url).read()
         soup=BeautifulSoup(f, 'html.parser')
 
@@ -102,43 +118,54 @@ for k_code, k_name in zip(code_df['code'],code_df['name']):
         all_stock_cnt = ((cells[10].string).replace(',','')).split('/')[0]
 
         cells = soup.find('table', {'class': "us_table_ty1 h_fix zigbg_no notres"}).find_all('td')
-        
-        print(cells.len())
-        
-        '''
-        if cells.len > 6:
+
+        if len(cells) > 6:
             my_stock_cnt = ((cells[6].string).replace(',','')).split('/')[0]
         else:
             my_stock_cnt=0
         
+        print('stock_ok')
+        
+        
+        #주식 현재가격 줍줍
+        price_df = pdr.get_data_yahoo(k_code)
+        stock_now_price = price_df.tail(1)
+        print('price_ok')
 
         stock_frame = stock_frame.append({'code':k_code,
                                           'name':k_name,
                                           'roe':roe_cells[4].string,
+                                          'roe_avg':roe_avg,
                                           'stockholder':(sh_cells[3].string).replace(',',''),
                                           'all_stock':all_stock_cnt,
-                                          'my_stock':my_stock_cnt}, 
+                                          'my_stock':my_stock_cnt,
+                                          'price':stock_now_price['Close'][0]
+                                          }, 
                                           ignore_index = True)
-        #stock_cnt = (all_stock_cnt - my_stock_cnt) / 100000000
 
-        #지배주주지분 + ((지배주주지분 * (예상roe - bbb_roe)/bbb_roe)
-        #stock_price = c_stockholder + ((c_stockholder * (roe - spread_point))/spread_point)
+        print(k_code, k_name, '<<<--- succeed')
 
-        print(stock_frame)
-        '''
     except:
-        pass
+        print(k_code, k_name, '데이터 수집 오류.!!!!!!')
 
     finally:
         pass
-
 '''
-# 삼성전자의 종목코드 획득. data frame에는 이미 XXXXXX.KX 형태로 조합이 되어있음
-code = get_code(code_df, '삼성전자')
+stock_frame['value_fare'] = float(stock_frame['stockholder']) + ((float(stock_frame['stockholder'])*(float(stock_frame['roe_avg'])-float(spread_point)))/float(spread_point))
+stock_frame['value_10'] = float(stock_frame['stockholder']) + ((float(stock_frame['stockholder'])*(float(stock_frame['roe_avg'])-float(spread_point)))*(0.9/(1+float(spread_point)-0.9)))
+stock_frame['value_20'] = float(stock_frame['stockholder']) + ((float(stock_frame['stockholder'])*(float(stock_frame['roe_avg'])-float(spread_point)))*(0.8/(1+float(spread_point)-0.8)))
+stock_frame['value_30'] = float(stock_frame['stockholder']) + ((float(stock_frame['stockholder'])*(float(stock_frame['roe_avg'])-float(spread_point)))*(0.7/(1+float(spread_point)-0.7)))
+stock_frame['value_50'] = float(stock_frame['stockholder']) + ((float(stock_frame['stockholder'])*(float(stock_frame['roe_avg'])-float(spread_point)))*(0.5/(1+float(spread_point)-0.5)))
 
-# get_data_yahoo API를 통해서 yahho finance의 주식 종목 데이터를 가져온다.
-df = pdr.get_data_yahoo(code,'2021-01-28')
 
 
-print(df)
+stock_frame['price_fare'] = (float(stock_frame['value_fare']) / (float(stock_frame['all_stock'])- float(stock_frame['my_stock'])))*100000000
+stock_frame['price_10'] = (float(stock_frame['value_10']) / (float(stock_frame['all_stock'])- float(stock_frame['my_stock'])))*100000000
+stock_frame['price_20'] = (float(stock_frame['value_20']) / (float(stock_frame['all_stock'])- float(stock_frame['my_stock'])))*100000000
+stock_frame['price_30'] = (float(stock_frame['value_30']) / (float(stock_frame['all_stock'])- float(stock_frame['my_stock'])))*100000000
+stock_frame['price_50'] = (float(stock_frame['value_50']) / (float(stock_frame['all_stock'])- float(stock_frame['my_stock'])))*100000000
 '''
+
+print(stock_frame)
+
+stock_frame.to_excel('s_rim.xlsx')
