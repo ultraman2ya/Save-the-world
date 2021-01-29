@@ -7,6 +7,7 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 import requests
 import urllib.request
+#TEST
 
 # 종목 타입에 따라 download url이 다름. 종목코드 뒤에 .KS .KQ등이 입력되어야해서 Download Link 구분 필요
 
