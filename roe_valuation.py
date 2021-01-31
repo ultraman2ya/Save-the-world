@@ -57,6 +57,8 @@ def get_spread_point():
     return sp_cells[98].string
     
 
+print("Kospi & Kosdaq All Stock S-Rim Data Calculation Start --- !!!")
+
 # kospi, kosdaq 종목코드 각각 다운로드
 kospi_df = get_download_kospi()
 kosdaq_df = get_download_kosdaq()
@@ -71,7 +73,7 @@ code_df = code_df[['회사명', '종목코드']]
 # data frame title 변경 '회사명' = name, 종목코드 = 'code'
 code_df = code_df.rename(columns={'회사명': 'name', '종목코드': 'code'})
 
-code_df = code_df.head(10)
+#code_df = code_df.head(10)
 
 stock_frame = pd.DataFrame(columns = ['code','name','roe','roe_avg','stockholder','all_stock','my_stock','price',
                                       'value_fare','price_fare',
@@ -81,33 +83,51 @@ stock_frame = pd.DataFrame(columns = ['code','name','roe','roe_avg','stockholder
                                       'value_50','price_50'
                                      ])
 
-
-
 for k_code, k_name in zip(code_df['code'],code_df['name']):
     roe_avg = 0
+    error_title = ""
 
     try:
-        print(k_code, k_name, 'Start-->>')
-
         #ROE줍줍
+        error_title = 'ROE'
         url ="http://comp.fnguide.com/SVO2/ASP/SVD_FinanceRatio.asp?pGB=1&gicode=A" + k_code[:-3] + "&cID=&MenuYn=Y&ReportGB=&NewMenuID=104&stkGb=701"
         f = urllib.request.urlopen(url).read()
         soup=BeautifulSoup(f, 'html.parser')
         roe_cells = soup.find('tr', {'id': "p_grid1_18"}).find_all('td')
         
-        roe_avg = ((float(roe_cells[3].string)*3) + (float(roe_cells[2].string)*2) + (float(roe_cells[1].string)*1))/6
-        print('roe_ok')
+        roe_cnt = 0
+        for row in roe_cells:
+            temp_len = len(row.string)
+            if int(temp_len) > 1:
+                roe_cnt = roe_cnt + 1
+
+        if roe_cnt > 4:
+            roe_avg = str(round((((float(roe_cells[3].string)*3) + (float(roe_cells[2].string)*2) + (float(roe_cells[1].string)*1))/6),2))
+        elif roe_cnt > 3:
+            roe_avg = str(round(((float(roe_cells[3].string)*2) + (float(roe_cells[2].string)*2) / 3),2))
+        else:
+            roe_avg = str(roe_cells[3].string)
+
 
         #지배주주 줍줍
+        error_title = 'StockHolder'
         #http://comp.fnguide.com/SVO2/ASP/SVD_Finance.asp?pGB=1&gicode=A155660&cID=&MenuYn=Y&ReportGB=&NewMenuID=103&stkGb=701
         url ="http://comp.fnguide.com/SVO2/ASP/SVD_Finance.asp?pGB=1&gicode=A" + k_code[:-3] + "&cID=&MenuYn=Y&ReportGB=&NewMenuID=103&stkGb=701"
 
         f = urllib.request.urlopen(url).read()
         soup=BeautifulSoup(f, 'html.parser')
-        sh_cells = soup.find('tr', {'id': "p_grid2_10"}).find_all('td')
-        print('holder_ok')
+        #sh_cells = soup.find('tr', {'id': "p_grid2_10"}).find_all('td')
+        sh_temp_cells = soup.find('tr', {'id': "p_grid2_10"})
+
+        if sh_temp_cells:
+            sh_cells = soup.find('tr', {'id': "p_grid2_10"}).find_all('td')
+            stock_holders = sh_cells[3].string
+        else:
+            sh_cells = soup.find('div', {'id': "divDaechaY"}).find_all('td')
+            stock_holders = sh_cells[231].string
 
         ##발행주식수 줍줍
+        error_title = 'Stock All Count'
         #http://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A010130&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701
         url ="http://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A" + k_code[:-3] + "&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701"
         
@@ -124,48 +144,59 @@ for k_code, k_name in zip(code_df['code'],code_df['name']):
         else:
             my_stock_cnt=0
         
-        print('stock_ok')
-        
-        
+       
         #주식 현재가격 줍줍
+        error_title = 'Stock Price'
         price_df = pdr.get_data_yahoo(k_code)
         stock_now_price = price_df.tail(1)
-        print('price_ok')
 
         stock_frame = stock_frame.append({'code':k_code,
                                           'name':k_name,
                                           'roe':roe_cells[4].string,
                                           'roe_avg':roe_avg,
-                                          'stockholder':(sh_cells[3].string).replace(',',''),
+                                          'stockholder':stock_holders.replace(',',''),
                                           'all_stock':all_stock_cnt,
                                           'my_stock':my_stock_cnt,
                                           'price':stock_now_price['Close'][0]
                                           }, 
                                           ignore_index = True)
 
-        print(k_code, k_name, '<<<--- succeed')
+        print('succeed -------- >>>',k_code, k_name)
 
     except:
-        print(k_code, k_name, '데이터 수집 오류.!!!!!!')
+        print(k_code, k_name, error_title + '데이터 수집 오류.!!!!!!')
 
     finally:
         pass
-'''
-stock_frame['value_fare'] = float(stock_frame['stockholder']) + ((float(stock_frame['stockholder'])*(float(stock_frame['roe_avg'])-float(spread_point)))/float(spread_point))
-stock_frame['value_10'] = float(stock_frame['stockholder']) + ((float(stock_frame['stockholder'])*(float(stock_frame['roe_avg'])-float(spread_point)))*(0.9/(1+float(spread_point)-0.9)))
-stock_frame['value_20'] = float(stock_frame['stockholder']) + ((float(stock_frame['stockholder'])*(float(stock_frame['roe_avg'])-float(spread_point)))*(0.8/(1+float(spread_point)-0.8)))
-stock_frame['value_30'] = float(stock_frame['stockholder']) + ((float(stock_frame['stockholder'])*(float(stock_frame['roe_avg'])-float(spread_point)))*(0.7/(1+float(spread_point)-0.7)))
-stock_frame['value_50'] = float(stock_frame['stockholder']) + ((float(stock_frame['stockholder'])*(float(stock_frame['roe_avg'])-float(spread_point)))*(0.5/(1+float(spread_point)-0.5)))
 
 
+for i in stock_frame.index:
 
-stock_frame['price_fare'] = (float(stock_frame['value_fare']) / (float(stock_frame['all_stock'])- float(stock_frame['my_stock'])))*100000000
-stock_frame['price_10'] = (float(stock_frame['value_10']) / (float(stock_frame['all_stock'])- float(stock_frame['my_stock'])))*100000000
-stock_frame['price_20'] = (float(stock_frame['value_20']) / (float(stock_frame['all_stock'])- float(stock_frame['my_stock'])))*100000000
-stock_frame['price_30'] = (float(stock_frame['value_30']) / (float(stock_frame['all_stock'])- float(stock_frame['my_stock'])))*100000000
-stock_frame['price_50'] = (float(stock_frame['value_50']) / (float(stock_frame['all_stock'])- float(stock_frame['my_stock'])))*100000000
-'''
+    value_stockholder = float(stock_frame.at[i,'stockholder'])
+    value_roe_avg = float(stock_frame.at[i,'roe_avg'])
+    value_all_stock = float(stock_frame.at[i,'all_stock'])
+    value_my_stock = float(stock_frame.at[i,'my_stock'])
 
-print(stock_frame)
+    stock_frame.at[i,'value_fare'] = (value_stockholder + ((value_stockholder)*(value_roe_avg-float(spread_point)))/float(spread_point))
+    stock_frame.at[i,'value_10']   = (value_stockholder + ((value_stockholder)*(value_roe_avg-float(spread_point)))*(0.9/(1+float(spread_point)-0.9)))
+    stock_frame.at[i,'value_20']   = (value_stockholder + ((value_stockholder)*(value_roe_avg-float(spread_point)))*(0.8/(1+float(spread_point)-0.8)))
+    stock_frame.at[i,'value_30']   = (value_stockholder + ((value_stockholder)*(value_roe_avg-float(spread_point)))*(0.7/(1+float(spread_point)-0.7)))
+    stock_frame.at[i,'value_50']   = (value_stockholder + ((value_stockholder)*(value_roe_avg-float(spread_point)))*(0.5/(1+float(spread_point)-0.5)))
+    
+
+    value_vfare = float(stock_frame.at[i,'value_fare'])
+    value_v10 = float(stock_frame.at[i,'value_10'])
+    value_v20 = float(stock_frame.at[i,'value_20'])
+    value_v30 = float(stock_frame.at[i,'value_30'])
+    value_v50 = float(stock_frame.at[i,'value_50'])
+
+
+    stock_frame.at[i,'price_fare'] = ((value_vfare / (value_all_stock- value_my_stock))*10000000)
+    stock_frame.at[i,'price_10']   = ((value_v10 / (value_all_stock- value_my_stock))*10000000)
+    stock_frame.at[i,'price_20']   = ((value_v20 / (value_all_stock- value_my_stock))*10000000)
+    stock_frame.at[i,'price_30']   = ((value_v30 / (value_all_stock- value_my_stock))*10000000)
+    stock_frame.at[i,'price_50']   = ((value_v50 / (value_all_stock- value_my_stock))*10000000)
 
 stock_frame.to_excel('s_rim.xlsx')
+
+print("Kospi & Kosdaq All Stock S-Rim Data Calculation End --- !!!")
