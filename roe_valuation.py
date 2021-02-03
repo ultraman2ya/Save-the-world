@@ -73,14 +73,10 @@ code_df = code_df[['회사명', '종목코드']]
 # data frame title 변경 '회사명' = name, 종목코드 = 'code'
 code_df = code_df.rename(columns={'회사명': 'name', '종목코드': 'code'})
 
-#code_df = code_df.head(10)
+code_df = code_df.head(10)
 
 stock_frame = pd.DataFrame(columns = ['code','name','roe','roe_avg','stockholder','all_stock','my_stock','price',
-                                      'value_fare','price_fare',
-                                      'value_10','price_10',
-                                      'value_20','price_20',
-                                      'value_30','price_30',
-                                      'value_50','price_50'
+                                      'value_fare','price_fare'
                                      ])
 
 for k_code, k_name in zip(code_df['code'],code_df['name']):
@@ -90,24 +86,45 @@ for k_code, k_name in zip(code_df['code'],code_df['name']):
     try:
         #ROE줍줍
         error_title = 'ROE'
-        url ="http://comp.fnguide.com/SVO2/ASP/SVD_FinanceRatio.asp?pGB=1&gicode=A" + k_code[:-3] + "&cID=&MenuYn=Y&ReportGB=&NewMenuID=104&stkGb=701"
+        
+        url ="http://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A" + k_code[:-3] + "&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701"
+        
         f = urllib.request.urlopen(url).read()
         soup=BeautifulSoup(f, 'html.parser')
-        roe_cells = soup.find('tr', {'id': "p_grid1_18"}).find_all('td')
+        roe_table = soup.find_all('table')
+
+        roe_tr = roe_table[10].find_all('tr')
+        row_cnt = 0
+
+        for row in roe_tr:
+            row_cnt = row_cnt +1
+            roe_dt = row.find('dt')
+
+            if roe_dt:
+                if (roe_dt.string)[0:3] == 'ROE':
+                    roe_position = row_cnt
+
+        roe_cells = roe_tr[roe_position - 1 ].find_all('td')
         
         roe_cnt = 0
-        for row in roe_cells:
-            temp_len = len(row.string)
-            if int(temp_len) > 1:
-                roe_cnt = roe_cnt + 1
 
-        if roe_cnt > 4:
-            roe_avg = str(round((((float(roe_cells[3].string)*3) + (float(roe_cells[2].string)*2) + (float(roe_cells[1].string)*1))/6),2))
-        elif roe_cnt > 3:
-            roe_avg = str(round(((float(roe_cells[3].string)*2) + (float(roe_cells[2].string)*2) / 3),2))
+        if len(roe_cells) > 7:
+            for i in range(0,3):
+                temp_len = len(roe_cells[i].string)
+                if int(temp_len) > 1:
+                    roe_cnt = roe_cnt + 1
+
+            if roe_cnt > 2:
+                roe_avg = str(round((((float(roe_cells[2].string)*3) + (float(roe_cells[1].string)*2) + (float(roe_cells[0].string)*1))/6),2))
+            elif roe_cnt > 1:
+                roe_avg = str(round(((float(roe_cells[2].string)*2) + (float(roe_cells[1].string)*2) / 3),2))
+            else:
+                roe_avg = str(roe_cells[2].string)
         else:
-            roe_avg = str(roe_cells[3].string)
+            roe_avg = 0
 
+        print(roe_avg)
+        
 
         #지배주주 줍줍
         error_title = 'StockHolder'
@@ -160,7 +177,7 @@ for k_code, k_name in zip(code_df['code'],code_df['name']):
                                           'price':stock_now_price['Close'][0]
                                           }, 
                                           ignore_index = True)
-
+        '''
         print('succeed -------- >>>',k_code, k_name)
 
     except:
@@ -169,7 +186,7 @@ for k_code, k_name in zip(code_df['code'],code_df['name']):
     finally:
         pass
 
-
+'''
 for i in stock_frame.index:
 
     value_stockholder = float(stock_frame.at[i,'stockholder'])
@@ -178,24 +195,10 @@ for i in stock_frame.index:
     value_my_stock = float(stock_frame.at[i,'my_stock'])
 
     stock_frame.at[i,'value_fare'] = (value_stockholder + ((value_stockholder)*(value_roe_avg-float(spread_point)))/float(spread_point))
-    stock_frame.at[i,'value_10']   = (value_stockholder + ((value_stockholder)*(value_roe_avg-float(spread_point)))*(0.9/(1+float(spread_point)-0.9)))
-    stock_frame.at[i,'value_20']   = (value_stockholder + ((value_stockholder)*(value_roe_avg-float(spread_point)))*(0.8/(1+float(spread_point)-0.8)))
-    stock_frame.at[i,'value_30']   = (value_stockholder + ((value_stockholder)*(value_roe_avg-float(spread_point)))*(0.7/(1+float(spread_point)-0.7)))
-    stock_frame.at[i,'value_50']   = (value_stockholder + ((value_stockholder)*(value_roe_avg-float(spread_point)))*(0.5/(1+float(spread_point)-0.5)))
-    
 
     value_vfare = float(stock_frame.at[i,'value_fare'])
-    value_v10 = float(stock_frame.at[i,'value_10'])
-    value_v20 = float(stock_frame.at[i,'value_20'])
-    value_v30 = float(stock_frame.at[i,'value_30'])
-    value_v50 = float(stock_frame.at[i,'value_50'])
-
 
     stock_frame.at[i,'price_fare'] = ((value_vfare / (value_all_stock- value_my_stock))*10000000)
-    stock_frame.at[i,'price_10']   = ((value_v10 / (value_all_stock- value_my_stock))*10000000)
-    stock_frame.at[i,'price_20']   = ((value_v20 / (value_all_stock- value_my_stock))*10000000)
-    stock_frame.at[i,'price_30']   = ((value_v30 / (value_all_stock- value_my_stock))*10000000)
-    stock_frame.at[i,'price_50']   = ((value_v50 / (value_all_stock- value_my_stock))*10000000)
 
 stock_frame.to_excel('s_rim.xlsx')
 
