@@ -73,7 +73,7 @@ code_df = code_df[['회사명', '종목코드']]
 # data frame title 변경 '회사명' = name, 종목코드 = 'code'
 code_df = code_df.rename(columns={'회사명': 'name', '종목코드': 'code'})
 
-code_df = code_df.head(10)
+code_df = code_df.head(3)
 
 stock_frame = pd.DataFrame(columns = ['code','name','roe','roe_avg','stockholder','all_stock','my_stock','price',
                                       'value_fare','price_fare'
@@ -91,20 +91,20 @@ for k_code, k_name in zip(code_df['code'],code_df['name']):
         
         f = urllib.request.urlopen(url).read()
         soup=BeautifulSoup(f, 'html.parser')
-        roe_table = soup.find_all('table')
+        main_table = soup.find_all('table')
 
-        roe_tr = roe_table[10].find_all('tr')
+        main_tr = main_table[10].find_all('tr')
         row_cnt = 0
 
-        for row in roe_tr:
+        for row in main_tr:
             row_cnt = row_cnt +1
-            roe_dt = row.find('dt')
+            temp_dt = row.find('dt')
 
-            if roe_dt:
-                if (roe_dt.string)[0:3] == 'ROE':
+            if temp_dt:
+                if (temp_dt.string)[0:3] == 'ROE':
                     roe_position = row_cnt
 
-        roe_cells = roe_tr[roe_position - 1 ].find_all('td')
+        roe_cells = main_tr[roe_position - 1 ].find_all('td')
         
         roe_cnt = 0
 
@@ -114,35 +114,67 @@ for k_code, k_name in zip(code_df['code'],code_df['name']):
                 if int(temp_len) > 1:
                     roe_cnt = roe_cnt + 1
 
-            if roe_cnt > 2:
+            if roe_cnt > 3:
+                roe_avg = str(round((((float(roe_cells[2].string)*3) + (float(roe_cells[1].string)*2) + (float(roe_cells[0].string)*1))/6),2))
+            elif roe_cnt > 2:
                 roe_avg = str(round((((float(roe_cells[2].string)*3) + (float(roe_cells[1].string)*2) + (float(roe_cells[0].string)*1))/6),2))
             elif roe_cnt > 1:
                 roe_avg = str(round(((float(roe_cells[2].string)*2) + (float(roe_cells[1].string)*2) / 3),2))
             else:
                 roe_avg = str(roe_cells[2].string)
+            
+            roe_now = '0'
+            for i in range(4,7):
+                temp_len = len(roe_cells[i].string)
+                if int(temp_len) > 1:
+                    roe_now = roe_cells[i].string
         else:
-            roe_avg = 0
-
-        print(roe_avg)
+            roe_avg = '0'
+            roe_now = '0'
+        print(roe_avg, roe_now)
         
 
         #지배주주 줍줍
         error_title = 'StockHolder'
-        #http://comp.fnguide.com/SVO2/ASP/SVD_Finance.asp?pGB=1&gicode=A155660&cID=&MenuYn=Y&ReportGB=&NewMenuID=103&stkGb=701
-        url ="http://comp.fnguide.com/SVO2/ASP/SVD_Finance.asp?pGB=1&gicode=A" + k_code[:-3] + "&cID=&MenuYn=Y&ReportGB=&NewMenuID=103&stkGb=701"
+        row_cnt = 0
+        title_position1 = 0
+        title_position2 = 0
 
-        f = urllib.request.urlopen(url).read()
-        soup=BeautifulSoup(f, 'html.parser')
-        #sh_cells = soup.find('tr', {'id': "p_grid2_10"}).find_all('td')
-        sh_temp_cells = soup.find('tr', {'id': "p_grid2_10"})
+        for row in main_tr:
+            row_cnt = row_cnt +1
+            temp_div = row.find('div')
+            
+            if temp_div:
+                if (temp_div.string) == '자본총계':
+                    title_position1 = row_cnt
+                
+                if (temp_div.string) == '자본금':
+                    title_position2 = row_cnt
+                        
 
-        if sh_temp_cells:
-            sh_cells = soup.find('tr', {'id': "p_grid2_10"}).find_all('td')
-            stock_holders = sh_cells[3].string
+        if (title_position2 - title_position1)>1:
+            sholder_cells = main_tr[title_position1].find_all('td')
         else:
-            sh_cells = soup.find('div', {'id': "divDaechaY"}).find_all('td')
-            stock_holders = sh_cells[231].string
+            sholder_cells = main_tr[title_position1 - 1 ].find_all('td')
 
+        sholder_cnt = 0
+
+        if len(sholder_cells) > 7:
+            for i in range(0,4):
+                temp_len = len(sholder_cells[i].string)
+                if int(temp_len) > 1:
+                    sholder_cnt = sholder_cnt + 1
+           
+            if sholder_cnt > 3:
+                stock_holders = str(sholder_cells[3].string)
+            elif sholder_cnt > 2:
+                stock_holders = str(sholder_cells[2].string)
+            else:
+                stock_holders = '0'
+        else:
+            stock_holders = '0'
+
+        print(stock_holders)
         ##발행주식수 줍줍
         error_title = 'Stock All Count'
         #http://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A010130&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701
@@ -161,7 +193,8 @@ for k_code, k_name in zip(code_df['code'],code_df['name']):
         else:
             my_stock_cnt=0
         
-       
+        print(all_stock_cnt, my_stock_cnt)
+
         #주식 현재가격 줍줍
         error_title = 'Stock Price'
         price_df = pdr.get_data_yahoo(k_code)
@@ -169,7 +202,7 @@ for k_code, k_name in zip(code_df['code'],code_df['name']):
 
         stock_frame = stock_frame.append({'code':k_code,
                                           'name':k_name,
-                                          'roe':roe_cells[4].string,
+                                          'roe':roe_now,
                                           'roe_avg':roe_avg,
                                           'stockholder':stock_holders.replace(',',''),
                                           'all_stock':all_stock_cnt,
@@ -177,7 +210,7 @@ for k_code, k_name in zip(code_df['code'],code_df['name']):
                                           'price':stock_now_price['Close'][0]
                                           }, 
                                           ignore_index = True)
-        '''
+        
         print('succeed -------- >>>',k_code, k_name)
 
     except:
@@ -186,19 +219,19 @@ for k_code, k_name in zip(code_df['code'],code_df['name']):
     finally:
         pass
 
-'''
+
 for i in stock_frame.index:
 
     value_stockholder = float(stock_frame.at[i,'stockholder'])
     value_roe_avg = float(stock_frame.at[i,'roe_avg'])
     value_all_stock = float(stock_frame.at[i,'all_stock'])
     value_my_stock = float(stock_frame.at[i,'my_stock'])
+    if value_roe_avg != 0:
+        stock_frame.at[i,'value_fare'] = (value_stockholder + ((value_stockholder)*(value_roe_avg-float(spread_point)))/float(spread_point))
 
-    stock_frame.at[i,'value_fare'] = (value_stockholder + ((value_stockholder)*(value_roe_avg-float(spread_point)))/float(spread_point))
+        value_vfare = float(stock_frame.at[i,'value_fare'])
 
-    value_vfare = float(stock_frame.at[i,'value_fare'])
-
-    stock_frame.at[i,'price_fare'] = ((value_vfare / (value_all_stock- value_my_stock))*10000000)
+        stock_frame.at[i,'price_fare'] = ((value_vfare / (value_all_stock- value_my_stock))*10000000)
 
 stock_frame.to_excel('s_rim.xlsx')
 

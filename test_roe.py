@@ -38,4 +38,12 @@ if len(roe_cells) > 7:
     else:
         roe_avg = str(roe_cells[2].string)
 
-    print(roe_avg)
+    roe_now = '0'
+    for i in range(4,7):
+        temp_len = len(roe_cells[i].string)
+        if int(temp_len) > 1:
+            roe_now = roe_cells[i].string
+
+        print(roe_now)
+
+    print(roe_avg, roe_now)
