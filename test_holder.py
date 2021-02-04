@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import urllib.request
 
-url ="http://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A010130&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701"
+url ="http://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A294870&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701"
 #url = "http://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A353200&cID=&MenuYn=Y&ReportGB=&NewMenuID=101&stkGb=701"
 
 print(url)
@@ -35,16 +35,17 @@ else:
 sholder_cnt = 0
 
 if len(sholder_cells) > 7:
-    for i in range(0,4):
+    for i in range(0,3):
         temp_len = len(sholder_cells[i].string)
         if int(temp_len) > 1:
             sholder_cnt = sholder_cnt + 1
     print(sholder_cnt)
-    if sholder_cnt > 3:
-        stock_holders = str(sholder_cells[3].string)
-    elif sholder_cnt > 2:
-        stock_holders = str(sholder_cells[2].string)
-    else:
-        stock_holders = '0'
+
+    stock_holders = '0'
+    for i in range(0,3):
+        temp_len = len(sholder_cells[i].string)
+        if int(temp_len) > 1:
+            stock_holders = sholder_cells[i].string
+   
 
 print(stock_holders)

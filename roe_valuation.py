@@ -119,7 +119,7 @@ for k_code, k_name in zip(code_df['code'],code_df['name']):
             elif roe_cnt > 2:
                 roe_avg = str(round((((float(roe_cells[2].string)*3) + (float(roe_cells[1].string)*2) + (float(roe_cells[0].string)*1))/6),2))
             elif roe_cnt > 1:
-                roe_avg = str(round(((float(roe_cells[2].string)*2) + (float(roe_cells[1].string)*2) / 3),2))
+                roe_avg = str(round(((float(roe_cells[2].string)*2) + (float(roe_cells[1].string)*1) / 3),2))
             else:
                 roe_avg = str(roe_cells[2].string)
             
@@ -160,17 +160,11 @@ for k_code, k_name in zip(code_df['code'],code_df['name']):
         sholder_cnt = 0
 
         if len(sholder_cells) > 7:
-            for i in range(0,4):
+            stock_holders = '0'
+            for i in range(0,3):
                 temp_len = len(sholder_cells[i].string)
                 if int(temp_len) > 1:
-                    sholder_cnt = sholder_cnt + 1
-           
-            if sholder_cnt > 3:
-                stock_holders = str(sholder_cells[3].string)
-            elif sholder_cnt > 2:
-                stock_holders = str(sholder_cells[2].string)
-            else:
-                stock_holders = '0'
+                    stock_holders = sholder_cells[i].string
         else:
             stock_holders = '0'
 

@@ -30,7 +30,10 @@ if len(roe_cells) > 7:
         temp_len = len(roe_cells[i].string)
         if int(temp_len) > 1:
             roe_cnt = roe_cnt + 1
-
+    print(roe_cells[0].string)
+    print(roe_cells[1].string)
+    print(roe_cells[2].string)
+    print ('xxxxxxxxxxxxxxxxxxxxxxxx')
     if roe_cnt > 2:
         roe_avg = str(round((((float(roe_cells[2].string)*3) + (float(roe_cells[1].string)*2) + (float(roe_cells[0].string)*1))/6),2))
     elif roe_cnt > 1:
