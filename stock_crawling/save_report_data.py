@@ -44,8 +44,7 @@ def run():
         page = browser.new_page()
 
         # 크롤링할 URL
-        # url = 'https://comp.fnguide.com/SVO2/ASP/SVD_Report_Summary.asp'
-        url = 'C:/backup/make_data/stock_crawling/a.htm'
+        url = 'https://comp.fnguide.com/SVO2/ASP/SVD_Report_Summary.asp'
         page.goto(url)
 
         # 페이지가 완전히 로드될 때까지 대기 (선택적)
@@ -58,15 +57,26 @@ def run():
         grid_body.scroll_into_view_if_needed()
 
         # GridBody 내부의 모든 tr 요소 선택
-        elements = grid_body.query_selector_all('tr')
+        elements = page.query_selector_all('#GridBody tr') # 변경된 부분입니다.
         
         for element in elements:
-            report_date = element.query_selector('td').text_content().strip().replace('/','')
-            stock_code = element.query_selector('.txt1').text_content().strip()
-            report_title = element.query_selector('.txt2').text_content().strip()
-            report_opinion = element.query_selector('.c.nopre2 .gpbox').text_content().strip()
-            stock_goal = element.query_selector('.r.nopre2 .gpbox').text_content().strip().replace(',','')
-            stock_last_value = element.query_selector('.r').text_content().strip().replace(',','')
+            report_date_element = element.query_selector('td')
+            report_code_element = element.query_selector('.txt1')
+            report_title_element = element.query_selector('.txt2')
+            report_opinion_element = element.query_selector('.c.nopre2 .gpbox')
+            stock_goal_element = element.query_selector('.r.nopre2 .gpbox')
+            stock_last_value_element = element.query_selector('.r')
+            report_comp_element = element.query_selector('.cle.c.nopre2')
+
+            report_date = report_date_element.text_content().strip().replace('/','') if report_date_element else ""
+            stock_code = report_code_element.text_content().strip() if report_code_element else ""
+            report_title = report_title_element.text_content().strip() if report_title_element else ""
+            report_opinion = report_opinion_element.text_content().strip().replace('매수','BUY') if report_opinion_element else "" # '를 공백으로 치환
+            stock_goal = stock_goal_element.text_content().strip().replace(',','') if stock_goal_element else ""
+            stock_last_value = stock_last_value_element.text_content().strip().replace(',','') if stock_last_value_element else ""
+
+            if stock_goal == "":
+                continue
 
             # report_comp 요소는 동일한 위치에 있음.
             report_comp_element = element.query_selector('.cle.c.nopre2')
@@ -80,6 +90,7 @@ def run():
                 report_analyst = extract_comp(report_comp_html,1)
                 report_analyst_grade = extract_analyst_grade(report_comp_html)
             
+            print(report_date, stock_code, report_title )
             c.execute('''
                 INSERT OR REPLACE INTO stock_report (report_date,
                                                    stock_code,
@@ -93,7 +104,7 @@ def run():
                 VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
                 ''', (
                         report_date,
-                        stock_code,
+                        stock_code[1:len(stock_code)],
                         report_comp,
                         report_analyst,
                         report_opinion,
@@ -107,6 +118,7 @@ def run():
         # 브라우저 종료
         browser.close()
     conn.commit()
+    conn.close()
 
 if __name__ == "__main__":
     run()

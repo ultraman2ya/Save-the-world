@@ -39,7 +39,7 @@ def run():
     c = conn.cursor()
     
     # 상대경로로 변경했습니다.
-    file_path = '202501.txt'  # HTML 내용을 담고 있는 텍스트 파일의 경로로 바꿔주세요.
+    file_path = '202502.txt'  # HTML 내용을 담고 있는 텍스트 파일의 경로로 바꿔주세요.
 
     # 현재 작업 디렉토리를 가져옵니다.
     current_dir = os.getcwd()
@@ -77,12 +77,23 @@ def run():
         elements = page.query_selector_all('#GridBody tr') # 변경된 부분입니다.
         
         for element in elements:
-            report_date = element.query_selector('td').text_content().strip().replace('/','')
-            stock_code = element.query_selector('.txt1').text_content().strip()
-            report_title = element.query_selector('.txt2').text_content().strip()
-            report_opinion = element.query_selector('.c.nopre2 .gpbox').text_content().strip()
-            stock_goal = element.query_selector('.r.nopre2 .gpbox').text_content().strip().replace(',','')
-            stock_last_value = element.query_selector('.r').text_content().strip().replace(',','')
+            report_date_element = element.query_selector('td')
+            report_code_element = element.query_selector('.txt1')
+            report_title_element = element.query_selector('.txt2')
+            report_opinion_element = element.query_selector('.c.nopre2 .gpbox')
+            stock_goal_element = element.query_selector('.r.nopre2 .gpbox')
+            stock_last_value_element = element.query_selector('.r')
+            report_comp_element = element.query_selector('.cle.c.nopre2')
+
+            report_date = report_date_element.text_content().strip().replace('/','') if report_date_element else ""
+            stock_code = report_code_element.text_content().strip() if report_code_element else ""
+            report_title = report_title_element.text_content().strip() if report_title_element else ""
+            report_opinion = report_opinion_element.text_content().strip().replace('매수','BUY') if report_opinion_element else "" # '를 공백으로 치환
+            stock_goal = stock_goal_element.text_content().strip().replace(',','') if stock_goal_element else ""
+            stock_last_value = stock_last_value_element.text_content().strip().replace(',','') if stock_last_value_element else ""
+
+            if stock_goal == "":
+                continue
 
             # report_comp 요소는 동일한 위치에 있음.
             report_comp_element = element.query_selector('.cle.c.nopre2')
@@ -110,7 +121,7 @@ def run():
                 VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
                 ''', (
                         report_date,
-                        stock_code,
+                        stock_code[1:len(stock_code)],
                         report_comp,
                         report_analyst,
                         report_opinion,
