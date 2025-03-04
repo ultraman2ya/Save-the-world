@@ -32,6 +32,18 @@ def extract_analyst_grade(html_content):
     else :
         return ''
 
+def get_next_sibling_text(element):
+    try:
+        # Playwright의 query_selector 메서드를 사용하여 다음 형제 요소를 찾습니다.
+        next_sibling = element.query_selector("xpath=following-sibling::td[1]")
+        if next_sibling:
+            return next_sibling.text_content().strip()
+        else:
+            return ""
+    except Exception as e:
+        print(f"Error getting next sibling: {e}")
+        return ""
+
 # Playwright를 사용한 크롤링
 def run():
 
@@ -47,14 +59,20 @@ def run():
         url = 'https://comp.fnguide.com/SVO2/ASP/SVD_Report_Summary.asp'
         page.goto(url)
 
-        # 페이지가 완전히 로드될 때까지 대기 (선택적)
-        page.wait_for_load_state('networkidle')
+        # 모든 요소가 로드 될때까지 기다립니다.
+        page.wait_for_load_state("domcontentloaded")
 
-        # GridBody 요소 선택
         grid_body = page.query_selector('#GridBody')
         
-        #스크롤
-        grid_body.scroll_into_view_if_needed()
+        # 스크롤을 playwright로 변경합니다.
+        if grid_body:
+             grid_body.scroll_into_view_if_needed()
+             print('grid body get')
+        else:
+            print('grid body가 없습니다.')
+            browser.close()
+            conn.close()
+            return
 
         # GridBody 내부의 모든 tr 요소 선택
         elements = page.query_selector_all('#GridBody tr') # 변경된 부분입니다.
@@ -65,18 +83,22 @@ def run():
             report_title_element = element.query_selector('.txt2')
             report_opinion_element = element.query_selector('.c.nopre2 .gpbox')
             stock_goal_element = element.query_selector('.r.nopre2 .gpbox')
-            stock_last_value_element = element.query_selector('.r')
+            stock_last_value_element = element.query_selector('.r.nopre2')
+            stock_last_value = get_next_sibling_text(stock_last_value_element) if stock_last_value_element else ""
             report_comp_element = element.query_selector('.cle.c.nopre2')
+            
+            stock_goal = stock_goal_element.text_content().strip().replace(',','') if stock_goal_element else ""
+            if stock_goal == "":
+                continue
 
             report_date = report_date_element.text_content().strip().replace('/','') if report_date_element else ""
             stock_code = report_code_element.text_content().strip() if report_code_element else ""
             report_title = report_title_element.text_content().strip() if report_title_element else ""
             report_opinion = report_opinion_element.text_content().strip().replace('매수','BUY') if report_opinion_element else "" # '를 공백으로 치환
-            stock_goal = stock_goal_element.text_content().strip().replace(',','') if stock_goal_element else ""
-            stock_last_value = stock_last_value_element.text_content().strip().replace(',','') if stock_last_value_element else ""
+            #stock_goal = stock_goal_element.text_content().strip().replace(',','') if stock_goal_element else ""
+            stock_last_value = stock_last_value.replace(',','')
 
-            if stock_goal == "":
-                continue
+
 
             # report_comp 요소는 동일한 위치에 있음.
             report_comp_element = element.query_selector('.cle.c.nopre2')
@@ -90,7 +112,7 @@ def run():
                 report_analyst = extract_comp(report_comp_html,1)
                 report_analyst_grade = extract_analyst_grade(report_comp_html)
             
-            print(report_date, stock_code, report_title )
+            print(report_date, stock_code, report_title,stock_goal, stock_last_value )
             c.execute('''
                 INSERT OR REPLACE INTO stock_report (report_date,
                                                    stock_code,
@@ -122,4 +144,3 @@ def run():
 
 if __name__ == "__main__":
     run()
-
