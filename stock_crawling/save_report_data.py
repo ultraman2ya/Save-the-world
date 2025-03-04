@@ -94,7 +94,7 @@ def run():
             report_date = report_date_element.text_content().strip().replace('/','') if report_date_element else ""
             stock_code = report_code_element.text_content().strip() if report_code_element else ""
             report_title = report_title_element.text_content().strip() if report_title_element else ""
-            report_opinion = report_opinion_element.text_content().strip().replace('매수','BUY') if report_opinion_element else "" # '를 공백으로 치환
+            report_opinion = report_opinion_element.text_content().strip().replace('매수','BUY').replace('보유','HOLD') if report_opinion_element else "" # '를 공백으로 치환
             #stock_goal = stock_goal_element.text_content().strip().replace(',','') if stock_goal_element else ""
             stock_last_value = stock_last_value.replace(',','')
 
