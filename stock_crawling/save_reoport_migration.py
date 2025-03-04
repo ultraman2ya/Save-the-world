@@ -39,7 +39,7 @@ def run():
     c = conn.cursor()
     
     # 상대경로로 변경했습니다.
-    file_path = '202502.txt'  # HTML 내용을 담고 있는 텍스트 파일의 경로로 바꿔주세요.
+    file_path = '202503.txt'  # HTML 내용을 담고 있는 텍스트 파일의 경로로 바꿔주세요.
 
     # 현재 작업 디렉토리를 가져옵니다.
     current_dir = os.getcwd()
