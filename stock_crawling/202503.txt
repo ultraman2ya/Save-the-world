@@ -30,7 +30,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">중립</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
-                    <td class="r">&nbsp;20,200</td>
+                    <td class="r">&nbsp;19,700</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한국투자증권<br>박상현</span></td>
                 </tr>
                             
@@ -46,7 +46,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
-                    <td class="r">&nbsp;26,650</td>
+                    <td class="r">&nbsp;26,050</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">메리츠증권<br>박종대</span></td>
                 </tr>
                             
@@ -62,7 +62,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
-                    <td class="r">&nbsp;33,850</td>
+                    <td class="r">&nbsp;33,600</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">메리츠증권<br>박종대</span></td>
                 </tr>
                             
@@ -78,7 +78,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
-                    <td class="r">&nbsp;270,500</td>
+                    <td class="r">&nbsp;303,000</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">스터닝밸류리서치<br>전영대</span></td>
                 </tr>
                             
@@ -94,7 +94,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
-                    <td class="r">&nbsp;11,510</td>
+                    <td class="r">&nbsp;10,940</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">그로쓰리서치<br>이재모</span></td>
                 </tr>
                             
@@ -109,7 +109,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
-                    <td class="r">&nbsp;43,000</td>
+                    <td class="r">&nbsp;41,400</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한국투자증권<br>강시온</span></td>
                 </tr>
                             
@@ -125,7 +125,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
-                    <td class="r">&nbsp;29,800</td>
+                    <td class="r">&nbsp;30,900</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">상상인증권<br>하태기</span></td>
                 </tr>
                             
@@ -141,7 +141,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
-                    <td class="r">&nbsp;4,895</td>
+                    <td class="r">&nbsp;6,490</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img best">하나증권<br>박성봉</span></td>
                 </tr>
                             
@@ -150,14 +150,13 @@
                     <td class="l nopre">
                         <dl class="um_tdinsm">
                             <dt><a href="javascript:ViewReport('A015760');">한국전력 <span class="txt1">A015760</span></a><span class="txt2"> -시장 기대치 하회. 실적 추정치 상향</span></dt>
-                            <dd> 목표주가 30,000원, 투자의견 매수 유지
-</dd><dd> 4Q24 영업이익 2.4조원(YoY +25.7%)으로 컨센서스 하회
-</dd>
+                            <dd> 4Q24 영업이익 2.4조원(YoY +25.7%)으로 컨센서스 하회
+</dd><dd> 환율과 유가는 정체 국면이나 유연탄과 SMP 하락 기조 긍정적</dd>
                         </dl>
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">30,000</span></td>
-                    <td class="r">&nbsp;21,350</td>
+                    <td class="r">&nbsp;22,050</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">하나증권<br>유재선</span></td>
                 </tr>
                             
@@ -173,7 +172,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">88,000</span></td>
-                    <td class="r">&nbsp;54,900</td>
+                    <td class="r">&nbsp;60,300</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">대신증권<br>이태환</span></td>
                 </tr>
                             
@@ -188,7 +187,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
-                    <td class="r">&nbsp;2,315</td>
+                    <td class="r">&nbsp;2,230</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">KB증권<br>김현겸</span></td>
                 </tr>
                             
@@ -204,7 +203,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">6,500</span></td>
-                    <td class="r">&nbsp;4,370</td>
+                    <td class="r">&nbsp;4,510</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">DS투자증권<br>김수현</span></td>
                 </tr>
                             
@@ -220,7 +219,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">15,000</span></td>
-                    <td class="r">&nbsp;10,100</td>
+                    <td class="r">&nbsp;10,700</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">DS투자증권<br>김수현</span></td>
                 </tr>
                             
@@ -236,7 +235,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">3,500</span></td>
-                    <td class="r">&nbsp;2,510</td>
+                    <td class="r">&nbsp;2,485</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img best">한국투자증권<br>최고운</span></td>
                 </tr>
                             
@@ -252,7 +251,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">28,000</span></td>
-                    <td class="r">&nbsp;23,800</td>
+                    <td class="r">&nbsp;25,250</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img best">신한투자증권<br>이동헌</span></td>
                 </tr>
                             
@@ -268,7 +267,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">30,000</span></td>
-                    <td class="r">&nbsp;21,350</td>
+                    <td class="r">&nbsp;22,050</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">메리츠증권<br>문경원</span></td>
                 </tr>
                             
@@ -284,7 +283,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">240,000</span></td>
-                    <td class="r">&nbsp;111,700</td>
+                    <td class="r">&nbsp;144,600</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">유안타증권<br>하현수</span></td>
                 </tr>
                             
@@ -300,7 +299,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
-                    <td class="r">&nbsp;21,350</td>
+                    <td class="r">&nbsp;22,050</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">KB증권<br>정혜정</span></td>
                 </tr>
                             
@@ -316,7 +315,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">29,000</span></td>
-                    <td class="r">&nbsp;18,410</td>
+                    <td class="r">&nbsp;18,350</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">신한투자증권<br>오강호</span></td>
                 </tr>
                             
@@ -332,7 +331,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">28,000</span></td>
-                    <td class="r">&nbsp;21,350</td>
+                    <td class="r">&nbsp;22,050</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">유진투자증권<br>황성현</span></td>
                 </tr>
                             
@@ -348,7 +347,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">30,000</span></td>
-                    <td class="r">&nbsp;21,350</td>
+                    <td class="r">&nbsp;22,050</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">신한투자증권<br>최규헌</span></td>
                 </tr>
                             
@@ -378,7 +377,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">130,000</span></td>
-                    <td class="r">&nbsp;91,400</td>
+                    <td class="r">&nbsp;92,700</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img best">신한투자증권<br>임희연</span></td>
                 </tr>
                             
@@ -393,7 +392,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">77,000</span></td>
-                    <td class="r">&nbsp;58,800</td>
+                    <td class="r">&nbsp;63,400</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">유안타증권<br>이승은</span></td>
                 </tr>
                             
@@ -409,7 +408,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">33,000</span></td>
-                    <td class="r">&nbsp;21,350</td>
+                    <td class="r">&nbsp;22,050</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">대신증권<br>허민호</span></td>
                 </tr>
                             
@@ -425,7 +424,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">70,000</span></td>
-                    <td class="r">&nbsp;40,100</td>
+                    <td class="r">&nbsp;41,150</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">다올투자증권<br>박종현</span></td>
                 </tr>
                             
@@ -441,7 +440,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
-                    <td class="r">&nbsp;75,700</td>
+                    <td class="r">&nbsp;82,100</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한국IR협의회(리서치센터)<br>김태현</span></td>
                 </tr>
                             
@@ -456,7 +455,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">58,000</span></td>
-                    <td class="r">&nbsp;47,650</td>
+                    <td class="r">&nbsp;46,800</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">NH투자증권<br>정지윤</span></td>
                 </tr>
                             
@@ -471,7 +470,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">116,000</span></td>
-                    <td class="r">&nbsp;80,600</td>
+                    <td class="r">&nbsp;81,000</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">KB증권<br>전우제</span></td>
                 </tr>
                             
@@ -487,7 +486,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">30,000</span></td>
-                    <td class="r">&nbsp;15,400</td>
+                    <td class="r">&nbsp;16,000</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">유진투자증권<br>한병화</span></td>
                 </tr>
                             
@@ -503,7 +502,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
-                    <td class="r">&nbsp;16,120</td>
+                    <td class="r">&nbsp;16,630</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">신한투자증권<br>엄민용</span></td>
                 </tr>
                             
@@ -519,7 +518,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">30,000</span></td>
-                    <td class="r">&nbsp;21,350</td>
+                    <td class="r">&nbsp;22,050</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">NH투자증권<br>이민재</span></td>
                 </tr>
                             
@@ -535,7 +534,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">145,000</span></td>
-                    <td class="r">&nbsp;102,900</td>
+                    <td class="r">&nbsp;101,800</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">대신증권<br>양지환</span></td>
                 </tr>
                             
@@ -544,14 +543,14 @@
                     <td class="l nopre">
                         <dl class="um_tdinsm">
                             <dt><a href="javascript:ViewReport('A403550');">쏘카 <span class="txt1">A403550</span></a><span class="txt2"> -더 이상 모른척할 수 없는 자율주행 기회</span></dt>
-                            <dd>쏘카는 국내 가장 경쟁력 있는 차량 공유 서비스
-</dd><dd>수도권에서 약 2,500개 사이트, 11,000대의 차량을 보유/서비스 중
+                            <dd> 쏘카는 국내 가장 경쟁력 있는 차량 공유 서비스
+</dd><dd> 수도권에서 약 2,500개 사이트, 11,000대의 차량을 보유/서비스 중
 </dd>
                         </dl>
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="신규" class="gp_img new">매수</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="신규" class="gp_img new">25,000</span></td>
-                    <td class="r">&nbsp;14,830</td>
+                    <td class="r">&nbsp;14,730</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">SK증권<br>박찬솔</span></td>
                 </tr>
                             
@@ -567,7 +566,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="신규" class="gp_img new">매수</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="신규" class="gp_img new">23,500</span></td>
-                    <td class="r">&nbsp;13,090</td>
+                    <td class="r">&nbsp;14,020</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">SK증권<br>박찬솔</span></td>
                 </tr>
                             
@@ -583,7 +582,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">보유</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">40,000</span></td>
-                    <td class="r">&nbsp;40,550</td>
+                    <td class="r">&nbsp;44,350</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">BNK투자증권<br>김장원</span></td>
                 </tr>
                             
@@ -599,7 +598,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
-                    <td class="r">&nbsp;21,350</td>
+                    <td class="r">&nbsp;22,050</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">KB증권<br>정혜정</span></td>
                 </tr>
                             
@@ -615,7 +614,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">27,000</span></td>
-                    <td class="r">&nbsp;21,350</td>
+                    <td class="r">&nbsp;22,050</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">미래에셋증권<br>류제현</span></td>
                 </tr>
                             
@@ -631,7 +630,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="신규" class="gp_img new">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="신규" class="gp_img new">44,000</span></td>
-                    <td class="r">&nbsp;34,400</td>
+                    <td class="r">&nbsp;34,100</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한화투자증권<br>김성래</span></td>
                 </tr>
                             
@@ -647,7 +646,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
-                    <td class="r">&nbsp;15,020</td>
+                    <td class="r">&nbsp;15,170</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">미래에셋증권<br>박준서</span></td>
                 </tr>
                             
@@ -663,7 +662,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">58,000</span></td>
-                    <td class="r">&nbsp;44,150</td>
+                    <td class="r">&nbsp;41,800</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한화투자증권<br>김성래</span></td>
                 </tr>
                             
@@ -679,7 +678,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">330,000</span></td>
-                    <td class="r">&nbsp;245,500</td>
+                    <td class="r">&nbsp;251,000</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한화투자증권<br>김성래</span></td>
                 </tr>
                             
@@ -695,7 +694,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">140,000</span></td>
-                    <td class="r">&nbsp;93,200</td>
+                    <td class="r">&nbsp;95,900</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한화투자증권<br>김성래</span></td>
                 </tr>
                             
@@ -711,7 +710,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">310,000</span></td>
-                    <td class="r">&nbsp;193,000</td>
+                    <td class="r">&nbsp;194,700</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한화투자증권<br>김성래</span></td>
                 </tr>
                             
@@ -726,7 +725,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">260,000</span></td>
-                    <td class="r">&nbsp;184,000</td>
+                    <td class="r">&nbsp;184,700</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">부국증권<br>유대웅</span></td>
                 </tr>
                             
@@ -742,7 +741,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">180,000</span></td>
-                    <td class="r">&nbsp;125,500</td>
+                    <td class="r">&nbsp;128,800</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">DB금융투자<br>이명선</span></td>
                 </tr>
                             
@@ -758,7 +757,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">365,000</span></td>
-                    <td class="r">&nbsp;240,000</td>
+                    <td class="r">&nbsp;262,500</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">DB금융투자<br>이명선</span></td>
                 </tr>
                             
@@ -773,7 +772,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="신규" class="gp_img new">9,000</span></td>
-                    <td class="r">&nbsp;7,180</td>
+                    <td class="r">&nbsp;7,270</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">흥국증권<br>박희철</span></td>
                 </tr>
                             
@@ -789,7 +788,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">140,000</span></td>
-                    <td class="r">&nbsp;114,000</td>
+                    <td class="r">&nbsp;113,800</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">DB금융투자<br>이명선</span></td>
                 </tr>
                             
@@ -805,7 +804,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">250,000</span></td>
-                    <td class="r">&nbsp;184,000</td>
+                    <td class="r">&nbsp;184,700</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">DB금융투자<br>이명선</span></td>
                 </tr>
                             
@@ -820,7 +819,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">1,260,000</span></td>
-                    <td class="r">&nbsp;1,116,000</td>
+                    <td class="r">&nbsp;1,143,000</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">DB금융투자<br>이명선</span></td>
                 </tr>
                             
@@ -836,7 +835,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">32,000</span></td>
-                    <td class="r">&nbsp;21,200</td>
+                    <td class="r">&nbsp;21,550</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">하나증권<br>이준호</span></td>
                 </tr>
                             
@@ -852,7 +851,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">95,000</span></td>
-                    <td class="r">&nbsp;61,100</td>
+                    <td class="r">&nbsp;59,000</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">하나증권<br>이준호</span></td>
                 </tr>
                             
@@ -868,7 +867,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">500,000</span></td>
-                    <td class="r">&nbsp;343,500</td>
+                    <td class="r">&nbsp;344,000</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">하나증권<br>이준호</span></td>
                 </tr>
                             
@@ -883,7 +882,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="신규" class="gp_img new">HOLD</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="신규" class="gp_img new">308,000</span></td>
-                    <td class="r">&nbsp;352,000</td>
+                    <td class="r">&nbsp;334,000</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">LS증권<br>정경희</span></td>
                 </tr>
                             
@@ -899,7 +898,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="신규" class="gp_img new">HOLD</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="신규" class="gp_img new">195,000</span></td>
-                    <td class="r">&nbsp;224,000</td>
+                    <td class="r">&nbsp;213,500</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">LS증권<br>정경희</span></td>
                 </tr>
                             
@@ -915,7 +914,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="신규" class="gp_img new">HOLD</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="신규" class="gp_img new">108,000</span></td>
-                    <td class="r">&nbsp;125,700</td>
+                    <td class="r">&nbsp;126,700</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">LS증권<br>정경희</span></td>
                 </tr>
                             
@@ -931,7 +930,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="신규" class="gp_img new">HOLD</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="신규" class="gp_img new">204,000</span></td>
-                    <td class="r">&nbsp;234,500</td>
+                    <td class="r">&nbsp;230,500</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">LS증권<br>정경희</span></td>
                 </tr>
                             
@@ -947,7 +946,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
-                    <td class="r">&nbsp;15,020</td>
+                    <td class="r">&nbsp;15,170</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">리딩투자증권<br>유성만</span></td>
                 </tr>
                             
@@ -962,7 +961,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">33,000</span></td>
-                    <td class="r">&nbsp;21,350</td>
+                    <td class="r">&nbsp;22,050</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img best">한화투자증권<br>송유림</span></td>
                 </tr>
                             
@@ -977,7 +976,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">5,400</span></td>
-                    <td class="r">&nbsp;3,825</td>
+                    <td class="r">&nbsp;3,980</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">교보증권<br>김지영</span></td>
                 </tr>
                             
@@ -992,7 +991,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">30,000</span></td>
-                    <td class="r">&nbsp;23,250</td>
+                    <td class="r">&nbsp;22,700</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">교보증권<br>김지영</span></td>
                 </tr>
                             
@@ -1007,7 +1006,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">480,000</span></td>
-                    <td class="r">&nbsp;382,500</td>
+                    <td class="r">&nbsp;387,500</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">교보증권<br>김지영</span></td>
                 </tr>
                             
@@ -1022,7 +1021,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">125,000</span></td>
-                    <td class="r">&nbsp;91,400</td>
+                    <td class="r">&nbsp;92,700</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">교보증권<br>김지영</span></td>
                 </tr>
                             
@@ -1037,7 +1036,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">TRADING BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">6,300</span></td>
-                    <td class="r">&nbsp;4,980</td>
+                    <td class="r">&nbsp;5,050</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">교보증권<br>김지영</span></td>
                 </tr>
                             
@@ -1052,7 +1051,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">3,400</span></td>
-                    <td class="r">&nbsp;2,625</td>
+                    <td class="r">&nbsp;2,570</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">교보증권<br>김지영</span></td>
                 </tr>
                             
@@ -1067,7 +1066,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">108,000</span></td>
-                    <td class="r">&nbsp;86,800</td>
+                    <td class="r">&nbsp;85,200</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">교보증권<br>김지영</span></td>
                 </tr>
                             
@@ -1082,7 +1081,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">30,000</span></td>
-                    <td class="r">&nbsp;24,650</td>
+                    <td class="r">&nbsp;22,850</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">교보증권<br>김지영</span></td>
                 </tr>
                             
@@ -1097,7 +1096,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">21,000</span></td>
-                    <td class="r">&nbsp;17,240</td>
+                    <td class="r">&nbsp;17,000</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">교보증권<br>김지영</span></td>
                 </tr>
                             
@@ -1112,7 +1111,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">11,000</span></td>
-                    <td class="r">&nbsp;9,260</td>
+                    <td class="r">&nbsp;8,980</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">교보증권<br>김지영</span></td>
                 </tr>
                             
@@ -1127,7 +1126,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">14,000</span></td>
-                    <td class="r">&nbsp;11,160</td>
+                    <td class="r">&nbsp;10,460</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">교보증권<br>김지영</span></td>
                 </tr>
                             
@@ -1142,7 +1141,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">18,000</span></td>
-                    <td class="r">&nbsp;15,590</td>
+                    <td class="r">&nbsp;15,340</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">교보증권<br>김지영</span></td>
                 </tr>
                             
@@ -1157,7 +1156,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">83,000</span></td>
-                    <td class="r">&nbsp;59,500</td>
+                    <td class="r">&nbsp;57,800</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">교보증권<br>김지영</span></td>
                 </tr>
                             
@@ -1172,7 +1171,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">111,000</span></td>
-                    <td class="r">&nbsp;78,300</td>
+                    <td class="r">&nbsp;76,600</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">교보증권<br>김지영</span></td>
                 </tr>
                             
@@ -1187,7 +1186,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">72,000</span></td>
-                    <td class="r">&nbsp;45,850</td>
+                    <td class="r">&nbsp;44,650</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">교보증권<br>김지영</span></td>
                 </tr>
                             
@@ -1202,7 +1201,7 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">22,000</span></td>
-                    <td class="r">&nbsp;16,580</td>
+                    <td class="r">&nbsp;16,000</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">교보증권<br>김지영</span></td>
                 </tr>
                             
@@ -1218,8 +1217,1468 @@
                     </td>
                     <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
                     <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">60,000</span></td>
-                    <td class="r">&nbsp;47,650</td>
+                    <td class="r">&nbsp;46,800</td>
                     <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">대신증권<br>유정현</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/04</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A015760');">한국전력 <span class="txt1">A015760</span></a><span class="txt2"> -Valuation expected to normalize</span></dt>
+                            <dd> 4Q24 review: Solid results despite one-off costs
+</dd><dd> Costs stabilizing as normalization continues
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">27,000</span></td>
+                    <td class="r">&nbsp;22,050</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">미래에셋증권<br>류제현</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/04</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A000660');">SK하이닉스 <span class="txt1">A000660</span></a><span class="txt2"> -당분간 18~24만원의 구간대에서 움직일 듯</span></dt>
+                            <dd> 1Q25 동사 영업이익을 QoQ 23% 감소하는 6.2조원으로 추정
+</dd><dd> 단 경쟁사의 DDR5 및 HBM 공급 부진에 따라 향후 동사 실적은 업황 하락기에도 상재적으로 매우 양호할 가능성이 높은 것으로 판단됨</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">HOLD</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">200,000</span></td>
+                    <td class="r">&nbsp;193,100</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">iM증권<br>송명섭</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/04</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A005930');">삼성전자 <span class="txt1">A005930</span></a><span class="txt2"> -주식 수급과 Valuation Merit는 좋으나 본원 경쟁력 회복은 아직</span></dt>
+                            <dd> 동사 1Q25 영업이익 전망치를 기존의 5.2조원에서 4.3조원으로, FY25 영업이익 전망치를 기존의 20.0조원에서 18.1조원으로 하향
+</dd><dd> 1Q25 DRAM, NAND 출하 증가율에 대한 동사의 가이던스는 각각 한자리수대 후반 하락, 10%대 초반 하락이나 HBM 판매량의 급감과 PC, 모바일 고객들의 재고 축소 흐름을 감안 시, 도전적인 수치인 것으로 판단됨</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">68,000</span></td>
+                    <td class="r">&nbsp;54,000</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">iM증권<br>송명섭</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/04</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A278470');">에이피알 <span class="txt1">A278470</span></a><span class="txt2"> -Growing as global K-beauty leader</span></dt>
+                            <dd> 2025 guidance sales W1tn, OPM 17-18%
+</dd><dd> US and Europe: target markets for 2025</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">77,000</span></td>
+                    <td class="r">&nbsp;63,400</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">유안타증권<br>이승은</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/04</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A192820');">코스맥스 <span class="txt1">A192820</span></a><span class="txt2"> -Saves cosmetics sector</span></dt>
+                            <dd> K-beauty’s generational shift complete</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">220,000</span></td>
+                    <td class="r">&nbsp;171,300</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">유안타증권<br>이승은</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/04</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A015760');">한국전력 <span class="txt1">A015760</span></a><span class="txt2"> -All that’s needed now is an additional tariff hike</span></dt>
+                            <dd> Investor focus shifts to dividend growth as payouts resume
+</dd><dd> 4Q review: OP falls short despite dip in fuel &amp; power purchase expenses
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">30,000</span></td>
+                    <td class="r">&nbsp;22,050</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">신한투자증권<br>최규헌</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/04</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A005830');">DB손해보험 <span class="txt1">A005830</span></a><span class="txt2"> -Value-up plan leaves much to be desired</span></dt>
+                            <dd> Cumulative shareholder return ratio of 40.4% over the next 4 years
+</dd><dd> Targeting 35% shareholder return by 2028 &amp; 200-220% K-ICS ratio
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">130,000</span></td>
+                    <td class="r">&nbsp;92,700</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img best">신한투자증권<br>임희연</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/04</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A010620');">HD현대미포 <span class="txt1">A010620</span></a><span class="txt2"> -낙폭과대와 밸류에이션 메리트에 주목</span></dt>
+                            <dd> 목표주가 140,000원으로 하향조정, 투자의견 Buy 유지 
+</dd><dd> 올해 들어 주가 19.1% 하락,  조선주 중 유일하게 (-)수익률 기록 중 
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">140,000</span></td>
+                    <td class="r">&nbsp;114,100</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">KB증권<br>정동익</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/04</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A010620');">HD현대미포 <span class="txt1">A010620</span></a><span class="txt2"> -Focus on Excessive Stock Price Declines, Valuation Merit</span></dt>
+                            <dd> Revise down target price to KRW140,000; maintain BUY 
+</dd><dd> Stock down 19.1% YTD; only major domestic shipbuilder in negative territory 
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">140,000</span></td>
+                    <td class="r">&nbsp;114,100</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">KB증권<br>정동익</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/04</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A310210');">보로노이 <span class="txt1">A310210</span></a><span class="txt2"> -2025, a year with much to offer</span></dt>
+                            <dd> VRN11 clinical data release to be earlier than expected
+</dd><dd> ORIC-114 (VRN07) as a first-line treatment
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">240,000</span></td>
+                    <td class="r">&nbsp;144,600</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">유안타증권<br>하현수</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A145020');">휴젤 <span class="txt1">A145020</span></a><span class="txt2"> -2025년 성장에 대한 비전이 크다</span></dt>
+                            <dd> 2024년 영업실적 개선, 2025년에도 대폭 실적 성장 전망
+</dd><dd> 2025년 톡신 중심, 미국, 아시아태평양 수출 증가 전망</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">440,000</span></td>
+                    <td class="r">&nbsp;315,000</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">상상인증권<br>하태기</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A443250');">레뷰코퍼레이션 <span class="txt1">A443250</span></a><span class="txt2"> -㈜숏뜨 인수는 신의 한 수</span></dt>
+                            <dd> 국내 대표 인플루언서 마케팅 전문기업
+</dd><dd> 미디어 시장의 디지털화와 수익모델 다변화
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;13,190</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">하나증권<br>한유건</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A083650');">비에이치아이 <span class="txt1">A083650</span></a><span class="txt2"> -재생에너지 투자되든 안되든 수혜 전망</span></dt>
+                            <dd> 24년 HRSG 수주 1조원에 힘입어 1.4조원 대규모 수주 실적 달성
+</dd><dd> HRSG가 포함된 복합화력중심으로 가스발전소 투자 증가
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;22,100</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">대신증권<br>박장욱</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A074600');">원익QnC <span class="txt1">A074600</span></a><span class="txt2"> -견조한 Parts 수요 예상</span></dt>
+                            <dd> 반도체 쿼츠 부품 제조 업체
+</dd><dd> 고객사 투자로 견조한 파츠 수요 예상
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;18,350</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한국IR협의회(리서치센터)<br>박성순</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A950220');">네오이뮨텍 <span class="txt1">A950220</span></a><span class="txt2"> -준비는 끝났다, ARS 치료제로 쏘아 올린 신호탄</span></dt>
+                            <dd> 연 1,000억 원 매출의 시작, 미국 정부가 주목하는 ARS 치료제
+</dd><dd> 세계 최초 림프구 치료제, NT-I7 의 독보적 경쟁력
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;1,122</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">IR큐더스<br>황현우</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A015760');">한국전력 <span class="txt1">A015760</span></a><span class="txt2"> -현실적 투자 여론: 배당 확대 위해선 결국 추가 요금 인상 필요</span></dt>
+                            <dd> 4Q24 연결OP 2.4조원. 일회성적 비용 제외 시 당사 종전 전망치 부합
+</dd><dd> 실적 방향성 우수: 영업이익 흑자구조 회복 후 이익 규모 지속 증가 추이
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">30,000</span></td>
+                    <td class="r">&nbsp;22,050</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">LS증권<br>성종화</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A011170');">롯데케미칼 <span class="txt1">A011170</span></a><span class="txt2"> -2025년, 2가지 위기에서 탈출 시작하다!</span></dt>
+                            <dd> 2025년 예상 영업이익 2,212억원, 흑전 기대 
+</dd><dd> 2025년 우크라이나 종전 수혜 
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">200,000</span></td>
+                    <td class="r">&nbsp;72,000</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">유안타증권<br>황규원</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A014830');">유니드 <span class="txt1">A014830</span></a><span class="txt2"> -유가와 관세가 우호적으로 작용하고 있다</span></dt>
+                            <dd> 유가/가성칼륨 가격의 결정계수는 0.28에 불과하다
+</dd><dd> 염화칼륨 가격 상승세 기록 중
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">100,000</span></td>
+                    <td class="r">&nbsp;81,000</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">IBK투자증권<br>이동욱</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A005180');">빙그레 <span class="txt1">A005180</span></a><span class="txt2"> -역대급 4분기 실적. 비수기의 반전</span></dt>
+                            <dd> 4Q24Re: 수출 성장과 판관비 효율화로 영업이익 흑자 전환
+</dd><dd> 25년에도 해외 매출 확대와 비용 효율화로 수익성 개선 기조 유지
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">130,000</span></td>
+                    <td class="r">&nbsp;94,700</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">DS투자증권<br>장지혜</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A145720');">덴티움 <span class="txt1">A145720</span></a><span class="txt2"> -지난 분기는 아쉽지만 큰 그림은 변하지 않았다</span></dt>
+                            <dd> 4Q24 review: 중국 수출 부진 및 매출 믹스 악화로 컨센서스 대비 영업이익 하회
+</dd><dd> 글로벌 덴탈 업종 실적 부진과 국내 업체의 상황은 구별 필요 하며, 밸류에이션 매력도 유지 중인 만큼 투자의견 BUY 유지</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">90,000</span></td>
+                    <td class="r">&nbsp;65,500</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">삼성증권<br>정동희</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A195870');">해성디에스 <span class="txt1">A195870</span></a><span class="txt2"> -DDR5 용 Pkg. Substrate 성공 여부가 관건</span></dt>
+                            <dd> 목표주가를 하향하나 매수 투자의견은 유지
+</dd><dd> DDR5 용 Pkg. Substrate 성공 여부가 관건
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">36,500</span></td>
+                    <td class="r">&nbsp;29,450</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">iM증권<br>송명섭</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A217730');">강스템바이오텍 <span class="txt1">A217730</span></a><span class="txt2"> -내달 세계 골관절염학회에서 ‘오스카’ 임상 데이터 발표. 다수 글로벌 제약사로부터 벌써</span></dt>
+                            <dd> 1월 JP모건 헬스케어 콘퍼런스에서 다수 글로벌 기업으로부터 기술 수출 문의 받아
+</dd><dd> 일본 재생의료 시장 본격 진출, 2Q25 내 1종 후생노동성 최종 승인 기대감
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;2,095</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">밸류파인더<br>이충헌</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A215000');">골프존 <span class="txt1">A215000</span></a><span class="txt2"> -4Q24 Review: 수익성 개선 지속 기대</span></dt>
+                            <dd> 4Q24 Review: 12월 소비심리 위축 및 GDR 사업 재정비로 인하여 전년동기 대비 매출액이 크게 감소함
+</dd><dd> 1Q25 Preview: ‘투비젼NX’ ASP 상승 및 GDR 사업 적자폭 감소 등으로 수익성 개선 지속 전망
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">84,000</span></td>
+                    <td class="r">&nbsp;59,300</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">유진투자증권<br>박종선</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A214180');">헥토이노베이션 <span class="txt1">A214180</span></a><span class="txt2"> -4Q24 Review: 3분기 연속 최대 매출 갱신</span></dt>
+                            <dd> 4Q24 Review: 전 사업부문의 실적 성장으로 3개 분기 연속 최대 매출액 갱신과 함께 수익성 개선에도 성공함
+</dd><dd> 1Q25 Preview: 비수기이지만, 전년동기 대비 전 사업부문의 실적 성장을 기반으로 안정적인 실적 지속 전망
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">17,000</span></td>
+                    <td class="r">&nbsp;12,260</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">유진투자증권<br>박종선</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A204620');">글로벌텍스프리 <span class="txt1">A204620</span></a><span class="txt2"> -나만 알고 싶던 미용의료 수혜주</span></dt>
+                            <dd> 글로벌텍스프리는 세금환급(Tax Refund) 대행사업자로서, 물품을 구입한 외국인 관광객에게 내국세 환급을 대행해주는 사업을 영위
+</dd><dd> 2024년 매출액 1,297억원(+38.9% YoY), 영업이익 218억원(+47% YoY)를 기록하며 큰 폭의 성장 지속
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;4,510</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">유진투자증권<br>조태나</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A005180');">빙그레 <span class="txt1">A005180</span></a><span class="txt2"> -4분기에 영업이익 흑자</span></dt>
+                            <dd> 목표주가 12만원으로 상향
+</dd><dd> 4Q24, 비성수기 이례적인 영업 흑자 기록
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">120,000</span></td>
+                    <td class="r">&nbsp;94,700</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">IBK투자증권<br>김태현</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A425040');">티이엠씨 <span class="txt1">A425040</span></a><span class="txt2"> -올해도 녹록치 않을 업황</span></dt>
+                            <dd> 올해도 녹록치 않을 업황 
+</dd><dd> 올해 영업이익 252억원 전망 
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">11,000</span></td>
+                    <td class="r">&nbsp;7,740</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한화투자증권<br>김광진</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A257720');">실리콘투 <span class="txt1">A257720</span></a><span class="txt2"> -K-Beauty 글로벌 시장 개척 중!</span></dt>
+                            <dd> K-Beauty 글로벌 시장 개척자
+</dd><dd> 모두가 찾을 수밖에 없는 K-뷰티 플랫폼
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;26,050</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">교보증권<br>권우정</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A234690');">녹십자웰빙 <span class="txt1">A234690</span></a><span class="txt2"> -중국 소비 관련주를 찾고 있다면</span></dt>
+                            <dd> 녹십자웰빙, 하이난 장착 + 톡신 기업 인수
+</dd><dd> 2025년은 본격적인 성장의 해다</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;8,790</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한양증권<br>이준석</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A376300');">디어유 <span class="txt1">A376300</span></a><span class="txt2"> -시나리오별 중국 매출 추정</span></dt>
+                            <dd> 목표주가 52,000원으로 24% 상향
+</dd><dd> 시나오리별 중국 매출 추정
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">52,000</span></td>
+                    <td class="r">&nbsp;40,600</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">미래에셋증권<br>김규연</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A078930');">GS <span class="txt1">A078930</span></a><span class="txt2"> -역발상이 필요한 시점</span></dt>
+                            <dd> 4Q OP 5,501원(-25.9% YoY), 부진한 실적 달성
+</dd><dd> 2025년 에너지/발전 자회사 소폭 개선 전망
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">48,000</span></td>
+                    <td class="r">&nbsp;35,750</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">흥국증권<br>박종렬</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A112610');">씨에스윈드 <span class="txt1">A112610</span></a><span class="txt2"> -미국 하부구조물 수주계약 해지 코멘트</span></dt>
+                            <dd> CSWind Offshore, 미국 해상풍력 하부구조물 공급계약 해지 공시
+</dd><dd> 애널리스트 코멘트: 25년 실적 영향은 제한적. 장기적인 추가 수주 필요
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;37,250</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">미래에셋증권<br>이진호</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A009420');">한올바이오파마 <span class="txt1">A009420</span></a><span class="txt2"> -Batoclimab 임상 3상 결과 개봉 박두</span></dt>
+                            <dd> Batoclimab의 MG 임상 3상 결과 발표 예정
+</dd><dd> 일본 Batoclimab: TED에 대한 희귀의약품 지정
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">46,000</span></td>
+                    <td class="r">&nbsp;37,200</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">흥국증권<br>이지원</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A000210');">DL <span class="txt1">A000210</span></a><span class="txt2"> -Cariflex, 세계 1위 IRL 업체 지위 지속</span></dt>
+                            <dd> PB, 가격 강세 지속
+</dd><dd> 비핵심 자산/사업들에 대한 매각 작업 진행
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">53,000</span></td>
+                    <td class="r">&nbsp;35,000</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">IBK투자증권<br>이동욱</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A011780');">금호석유 <span class="txt1">A011780</span></a><span class="txt2"> -전사 증설 완료로 주주환원 강화 전망</span></dt>
+                            <dd> 세계 장갑 시장, 수급 개선 전망
+</dd><dd> 당기순이익의 최대 40%가 주주환원정책에 사용될 전망</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">170,000</span></td>
+                    <td class="r">&nbsp;116,700</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">IBK투자증권<br>이동욱</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A267270');">HD현대건설기계 <span class="txt1">A267270</span></a><span class="txt2"> -나에게는 인도법인이 있다</span></dt>
+                            <dd> 4Q24 Review: 영업이익 시장 기대치 하회
+</dd><dd> 채널 경쟁력 및 제품 포트폴리오 강화에 집중
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">88,000</span></td>
+                    <td class="r">&nbsp;77,100</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한화투자증권<br>배성조</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A042670');">HD현대인프라코어 <span class="txt1">A042670</span></a><span class="txt2"> -나에게는 엔진이 있다</span></dt>
+                            <dd> 4Q24 Review: 영업이익 시장 기대치 하회
+</dd><dd> 공격적으로 보이는 가이던스, 불가능은 아니다
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">10,200</span></td>
+                    <td class="r">&nbsp;9,170</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한화투자증권<br>배성조</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A241560');">두산밥캣 <span class="txt1">A241560</span></a><span class="txt2"> -나에게는 북미 생산기지가 있다</span></dt>
+                            <dd> 4Q24 Review: 영업이익 시장 기대치 상회
+</dd><dd> 보수적인 환율 가정, 보수적인 가이던스
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">64,000</span></td>
+                    <td class="r">&nbsp;47,550</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한화투자증권<br>배성조</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A192820');">코스맥스 <span class="txt1">A192820</span></a><span class="txt2"> -K-Beauty 확산의 중심</span></dt>
+                            <dd> K-Beauty 확산의 중심
+</dd><dd> 2025년에도 눈에 띄는 성장 기대</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="신규" class="gp_img new">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="신규" class="gp_img new">250,000</span></td>
+                    <td class="r">&nbsp;171,300</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">LS증권<br>오린아</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A303810');">동국생명과학 <span class="txt1">A303810</span></a><span class="txt2"> -국내 최고 조영제 제조 전문 기업</span></dt>
+                            <dd> 조영제 제조 최고 수준의 기술력 바탕으로 국내 1위 시장점유율 확보
+</dd><dd> 국내 유일 조영제 밸류체인 내재화 및 최대 품목 보유
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;10,680</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">IR큐더스<br>정환민</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A090430');">아모레퍼시픽 <span class="txt1">A090430</span></a><span class="txt2"> -재정비 후 성과 기대</span></dt>
+                            <dd> 중국 재정비, 코스알엑스 경쟁 심화
+</dd><dd> 글로벌 포트폴리오 재편 성과 기대
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="신규" class="gp_img new">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="신규" class="gp_img new">150,000</span></td>
+                    <td class="r">&nbsp;116,400</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">LS증권<br>오린아</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A161890');">한국콜마 <span class="txt1">A161890</span></a><span class="txt2"> -미국 사업 레벨업 중</span></dt>
+                            <dd> 2024년 국내 법인 매출액 YoY 24% 증가
+</dd><dd> 2공장 가동으로 미국 사업 레벨업
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="신규" class="gp_img new">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="신규" class="gp_img new">73,000</span></td>
+                    <td class="r">&nbsp;62,100</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">LS증권<br>오린아</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A051900');">LG생활건강 <span class="txt1">A051900</span></a><span class="txt2"> -최악은 지났다</span></dt>
+                            <dd> Whoo의 수요, 여전히 견고
+</dd><dd> 2025년 북미 사업 레벨업 &amp; 중국 회복 기대
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="신규" class="gp_img new">HOLD</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="신규" class="gp_img new">340,000</span></td>
+                    <td class="r">&nbsp;316,500</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">LS증권<br>오린아</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A338220');">뷰노 <span class="txt1">A338220</span></a><span class="txt2"> -NDR 후기: 연내 BEP 달성, 주요국 인허가 기대</span></dt>
+                            <dd> 4Q24P 영업적자 27억원, 딥카스 국내 도입 병원 수 증가 둔화 영향, 컨센서스 하회
+</dd><dd> 1Q25E 영업적자 12억원, 상급종합병원 도입 병상 수 증가로 적자 폭 축소 전망</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">35,000</span></td>
+                    <td class="r">&nbsp;22,850</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">DB금융투자<br>김지은</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A030520');">한글과컴퓨터 <span class="txt1">A030520</span></a><span class="txt2"> -기대감이 높아지는 올해 실적</span></dt>
+                            <dd> 비용 확대에 따른 부진한 4Q실적
+</dd><dd> 기대되는 올해 1Q성적</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">34,000</span></td>
+                    <td class="r">&nbsp;20,900</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">키움증권<br>김학준</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A393210');">토마토시스템 <span class="txt1">A393210</span></a><span class="txt2"> -올해는 AI를 통한 성장성 기대</span></dt>
+                            <dd> AI를 통한 성장성 기대
+</dd><dd> RPM+Smart Urgent Care 서비스는 지속적으로 레퍼런스 확대 중</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;5,550</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">키움증권<br>김학준</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A084730');">팅크웨어 <span class="txt1">A084730</span></a><span class="txt2"> -아픈 손가락이 회복</span></dt>
+                            <dd> 로봇청소기의 이어지는 외형 확장
+</dd><dd> 블랙박스의 수익성 개선 전망
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;10,530</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">키움증권<br>김학준</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A475150');">SK이터닉스 <span class="txt1">A475150</span></a><span class="txt2"> -매력적인 신성장 동력 확보</span></dt>
+                            <dd> 견조했던 4Q24
+</dd><dd> 발전 부문 신사업 매출 본격화
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;15,220</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">키움증권<br>김학준</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A039440');">에스티아이 <span class="txt1">A039440</span></a><span class="txt2"> -밝은 25년</span></dt>
+                            <dd> 4Q24 실적, 매출액 1,190억원, 영업이익 160억원 전망
+</dd><dd> 1H25, 수주 모멘텀
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;20,250</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">키움증권<br>오현진</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A290550');">디케이티 <span class="txt1">A290550</span></a><span class="txt2"> -온디바이스 AI 수혜주</span></dt>
+                            <dd> 온디바이스 AI 수혜 본격화 전망
+</dd><dd> 신규 사업 기대되는 25년, 주가는 저평가 국면</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;7,890</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">키움증권<br>오현진</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A413640');">비아이매트릭스 <span class="txt1">A413640</span></a><span class="txt2"> -AI 혁명의 진짜 수혜주</span></dt>
+                            <dd> AI가 넓혀주는 BI 시장
+</dd><dd> AI 솔루션 통한 고성장 시작. 한국의 팔란티어 기대</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;10,320</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">키움증권<br>오현진</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A015760');">한국전력 <span class="txt1">A015760</span></a><span class="txt2"> -Additional rate hike needed to pay more dividends</span></dt>
+                            <dd> 4Q24 OP meets our forecast when stripping out one-off costs
+</dd><dd> Profit on the rise after turnaround
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">30,000</span></td>
+                    <td class="r">&nbsp;22,050</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">LS증권<br>성종화</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A145720');">덴티움 <span class="txt1">A145720</span></a><span class="txt2"> -Misses consensus, but key catalysts still intact</span></dt>
+                            <dd> Dentium reported a lackluster operating profit in 4Q due to sluggish China-bound exports and sales-mix deterioration.
+</dd><dd> Investors need to distinguish between the low 2025 sales guidance of global dental companies and the situation of Korean players. Dentium shares remain attractive. 
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">90,000</span></td>
+                    <td class="r">&nbsp;65,500</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">삼성증권<br>정동희</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A306200');">세아제강 <span class="txt1">A306200</span></a><span class="txt2"> -업사이클의 초입에 들어서다.</span></dt>
+                            <dd> 알래스카 LNG 프로젝트 관련 진정한 수혜주
+</dd><dd> 미국 강관 가격의 실적 반영은 2~3분기에 걸쳐서 나타날 듯</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">215,000</span></td>
+                    <td class="r">&nbsp;180,700</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">상상인증권<br>김진범</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A003030');">세아제강지주 <span class="txt1">A003030</span></a><span class="txt2"> -두 개의 날개, 한국 강관업계의 지향점</span></dt>
+                            <dd> 통상정책의 불확실성이 미약한 업황 회복을 돋보이게 만들었다
+</dd><dd> 글로벌 강관업체 역시 업황의 점진적인 회복을 말한다
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;253,500</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">상상인증권<br>김진범</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A092790');">넥스틸 <span class="txt1">A092790</span></a><span class="txt2"> -뜨거운 관심에는 이유가 있기 마련</span></dt>
+                            <dd> 미국 현지 공장은 가동률 상승 &amp; 국내 법인은 수출 물량 확대 기대
+</dd><dd> 극저온 대구경 강관, 알레스카 LNG 프로젝트에 적극 대응할 계획</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;15,950</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">상상인증권<br>김진범</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A192820');">코스맥스 <span class="txt1">A192820</span></a><span class="txt2"> -Leader in spreading K-Beauty</span></dt>
+                            <dd> Leader in spreading K-Beauty
+</dd><dd> Superb growth expected for 2025</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">250,000</span></td>
+                    <td class="r">&nbsp;171,300</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">LS증권<br>오린아</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A376300');">디어유 <span class="txt1">A376300</span></a><span class="txt2"> -China revenue estimates</span></dt>
+                            <dd> Raise TP by 24% to W52,000
+</dd><dd> Estimates for China revenue by scenario
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">52,000</span></td>
+                    <td class="r">&nbsp;40,600</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">미래에셋증권<br>김규연</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/05</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A443060');">HD현대마린솔루션 <span class="txt1">A443060</span></a><span class="txt2"> -주가하락으로 상승여력 확보</span></dt>
+                            <dd> 목표주가 17.5만원으로 하향조정하지만 투자의견은 Buy로 상향조정 
+</dd><dd> 투자의견 하향조정 (1월 22일) 이후 30% 이상 하락해 가격 메리트 확보 
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">175,000</span></td>
+                    <td class="r">&nbsp;140,500</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">KB증권<br>정동익</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A168360');">펨트론 <span class="txt1">A168360</span></a><span class="txt2"> -NDR후기: 반도체 검사장비를 통한 레벨업</span></dt>
+                            <dd> SMT에서 반도체 검사장비까지 라인업 확장
+</dd><dd> 반도체 기대감 1) 8800WIR 검사장비
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;11,450</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한국투자증권<br>조수헌</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A011070');">LG이노텍 <span class="txt1">A011070</span></a><span class="txt2"> -1Q 깜작실적 예상, 2025년 역성장 우려를 상쇄</span></dt>
+                            <dd> 투자의견 매수(BUY) 유지, 목표주가 260,000원 상향(4%)
+</dd><dd> 1Q25 매출(4.49조원)과 영업이익(1,318억원)은 컨센서스 상회 추정</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">260,000</span></td>
+                    <td class="r">&nbsp;162,000</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">대신증권<br>박강호</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A051360');">토비스 <span class="txt1">A051360</span></a><span class="txt2"> -2025년에도 기대되는 실적주</span></dt>
+                            <dd> 실적이 주는 편안함
+</dd><dd> 실적이 주는 기대감</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;18,290</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">하나증권<br>김성호</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A074600');">원익QnC <span class="txt1">A074600</span></a><span class="txt2"> -실적흐름은 바닥을 지나 개선되는 중</span></dt>
+                            <dd> 일회성비용 감안해도 기대치 하회한 4Q24 실적 
+</dd><dd> 수요 개선으로 1Q25부터 실적 다소 호전, 하반기 본격 회복</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">30,000</span></td>
+                    <td class="r">&nbsp;18,350</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">BNK투자증권<br>이민희</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A000660');">SK하이닉스 <span class="txt1">A000660</span></a><span class="txt2"> -혼재된 시그널에도 메모리 수급개선 진행 중</span></dt>
+                            <dd> 메모리 생산계획 또 축소, 그러나 실제 수요는 개선되기 시작 
+</dd><dd> TSMC의 AI칩 생산목표 축소, 그러나 AI 생태계 확장과 성장 지속</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">310,000</span></td>
+                    <td class="r">&nbsp;193,100</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">BNK투자증권<br>이민희</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A419530');">SAMG엔터 <span class="txt1">A419530</span></a><span class="txt2"> -전 세계로 퍼져나가는 캐치! 티니핑</span></dt>
+                            <dd> 티니핑 IP를 보유한 1세대 애니메이션 기업
+</dd><dd> 한국 Target 시장 확대로 인한 TAM 증가 기대
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;26,500</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">하나증권<br>김성호</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A035420');">NAVER <span class="txt1">A035420</span></a><span class="txt2"> -커머스 사업 박차, 앱 출시일 확정과 수수료 인상</span></dt>
+                            <dd> 네이버+스토어 앱 출시일(3/12) 확정 및 수수료 정책 변경(6/2) 계획 발표
+</dd><dd> 정책 변경의 핵심은 결국 수수료 및 커머스 광고 매출 성장 도모 전략으로 판단
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">280,000</span></td>
+                    <td class="r">&nbsp;207,500</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">대신증권<br>이지은</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A099430');">바이오플러스 <span class="txt1">A099430</span></a><span class="txt2"> -비만/당뇨치료제시장올해본격진출..</span></dt>
+                            <dd> ‘HA 필러’ 전문 기업 + 비만/당뇨 치료제 개발
+</dd><dd> 비만/당뇨치료제 시장 올해 본격 진출
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;7,000</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">스터닝밸류리서치<br>전영대</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A281740');">레이크머티리얼즈 <span class="txt1">A281740</span></a><span class="txt2"> -반도체 전구체, 석화촉매, 전고체전지 소재 기업</span></dt>
+                            <dd> LED 증착공정용 소재 국산화 기업으로서 사업 시작
+</dd><dd> 2013년 이후 IT 분야의 소재 토탈 솔루션 회사로 성장
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;16,880</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한국IR협의회(리서치센터)<br>김경민</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A009580');">무림P&amp;P <span class="txt1">A009580</span></a><span class="txt2"> -국내 유일의 종합펄프제지 업체</span></dt>
+                            <dd> 국내 유일의 종합펄프제지 업체
+</dd><dd> 2025년 4분기부터 신규 보일러 및 스팀터빈 가동
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;2,720</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한국IR협의회(리서치센터)<br>김선호</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A393890');">더블유씨피 <span class="txt1">A393890</span></a><span class="txt2"> -길어지는 겨울</span></dt>
+                            <dd> 목표주가 12,000원으로 하향 
+</dd><dd> 1분기도 실적 부진 지속될 전망, 수요 부진 + 일회성 비용 반영 
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">12,000</span></td>
+                    <td class="r">&nbsp;9,300</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">KB증권<br>이창민</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A241590');">화승엔터프라이즈 <span class="txt1">A241590</span></a><span class="txt2"> -화승인더 개별 실적에 대한 재평가 필요</span></dt>
+                            <dd> 화승엔터와 화승인더 역대급 실적 개선
+</dd><dd> 화승엔터&amp; 화승인더의 아디다스향 매출은 중복 &amp; 이익은 공유
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">14,000</span></td>
+                    <td class="r">&nbsp;9,730</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">DS투자증권<br>김수현</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A014820');">동원시스템즈 <span class="txt1">A014820</span></a><span class="txt2"> -견조한 본업 위에 쌓아올린 이차전지사업</span></dt>
+                            <dd> 동워그룹의 첨단소재 전문 제조 기업
+</dd><dd> 참치 캔에서 46파이 원통형 배터리 캔까지
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;37,000</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">그로쓰리서치<br>김주형</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A199820');">제일일렉트릭 <span class="txt1">A199820</span></a><span class="txt2"> -[탐방 노트] 큰 잠재력을 갖고 있는 기업</span></dt>
+                            <dd> 오랜 업력을 지닌 배전 시스템/부품 전문 업체
+</dd><dd> 하반기 주요 해외 거래처향 신제품 공급 앞두고 있어
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;10,820</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">DS투자증권<br>안주원</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A145720');">덴티움 <span class="txt1">A145720</span></a><span class="txt2"> -중국 반등, 긴가민가 어딘가 아리까리해</span></dt>
+                            <dd> 4Q24은 상품 비중 증가, 일회성 비용으로 인한 수익성 ↓
+</dd><dd> 중국 업황에 달린 가치 회복, 목표 주가 -3.6% 하향</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">80,000</span></td>
+                    <td class="r">&nbsp;65,500</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">키움증권<br>신민수</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A066970');">엘앤에프 <span class="txt1">A066970</span></a><span class="txt2"> -앞으로 시장은 LFP, 하이니켈이 주도</span></dt>
+                            <dd> 2차전지 양극활물질 생산 기업
+</dd><dd> 국내 최초 LFP 양극재 양산 계획, 다가오는 2026년을 주목
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;72,700</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">그로쓰리서치<br>김주형</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A179530');">애드바이오텍 <span class="txt1">A179530</span></a><span class="txt2"> -국내 유일 동물용 나노바디(VHH) 치료제 개발업체, 올해는 삼두마차 통해 흑자전환 노린다</span></dt>
+                            <dd> 1H25 글로벌 가전업체 L사, 글로벌 렌탈업체 C사에 미생물제 공급 임박
+</dd><dd> lgY 동물용의약품, 나노바디 치료제, 미생물제 본격 판매가 시작될 해
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;1,765</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">지엘리서치<br>박창윤</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A047560');">이스트소프트 <span class="txt1">A047560</span></a><span class="txt2"> -25년 기대 요인</span></dt>
+                            <dd> 1H25, AI 서비스 확대 본격화
+</dd><dd> AI 사업 성과 통한 수익성 제고 주목</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;20,450</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">키움증권<br>오현진</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A009420');">한올바이오파마 <span class="txt1">A009420</span></a><span class="txt2"> -임상 결과를 앞두고 투자포인트 점검</span></dt>
+                            <dd> Batoclimab 임상 결과 임박에도 IMVT 주가 하락
+</dd><dd> Immunovant의 투자포인트 돌아보기
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">49,000</span></td>
+                    <td class="r">&nbsp;37,200</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">iM증권<br>장민환</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A035420');">NAVER <span class="txt1">A035420</span></a><span class="txt2"> -신규 쇼핑 수수료 정책의 효과는?</span></dt>
+                            <dd> 오는 12일 별도 쇼핑 앱인 ‘네이버 플러스 스토어’ 출시 시작으로 변화 본격화
+</dd><dd> 투자자 이목을 이끈 것은 신규 수수료 정책. 하반기 관련 매출 1,350억원 추정
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">300,000</span></td>
+                    <td class="r">&nbsp;207,500</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">메리츠증권<br>이효진</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A049430');">코메론 <span class="txt1">A049430</span></a><span class="txt2"> -모든 것을 고려해도 지나친 저평가</span></dt>
+                            <dd> 기업개요: 줄자생산 기업
+</dd><dd> 생산법인 변경으로 수익성 개선
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;10,650</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">LS증권<br>정홍식</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A397030');">에이프릴바이오 <span class="txt1">A397030</span></a><span class="txt2"> -돈 될 과학</span></dt>
+                            <dd> 단기 모멘텀 없지만 임상은 성공할 것 같다
+</dd><dd> 다피로리주맙 임상 3상 성공 후 시총 5.5조원 증가한 UCB
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">35,000</span></td>
+                    <td class="r">&nbsp;18,300</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한국투자증권<br>위해주</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A215200');">메가스터디교육 <span class="txt1">A215200</span></a><span class="txt2"> -공무원 사업 철수로 수익성 개선</span></dt>
+                            <dd> 실적 Review 
+</dd><dd> 공무원 사업 철수로 이익률 개선 
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">56,700</span></td>
+                    <td class="r">&nbsp;38,400</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">유안타증권<br>권명준</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A215000');">골프존 <span class="txt1">A215000</span></a><span class="txt2"> -한국에서는 익숙 VS. 해외에서는 신선</span></dt>
+                            <dd> TGL VS. 시티골프
+</dd><dd> 2024년 실적 Review
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;59,300</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">유안타증권<br>권명준</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A248070');">솔루엠 <span class="txt1">A248070</span></a><span class="txt2"> -이제는 다시 봐야할 때</span></dt>
+                            <dd> 새롭게 펼쳐질 성장 스토리 
+</dd><dd> 2024년 악재는 이미 모두 반영 
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">27,000</span></td>
+                    <td class="r">&nbsp;17,740</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">IBK투자증권<br>이건재</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A234340');">헥토파이낸셜 <span class="txt1">A234340</span></a><span class="txt2"> -4Q24 Review: 분기 최대 매출액 달성</span></dt>
+                            <dd> 4Q24 Review: 일시적 비용 등으로 수익성은 크게 하락하였지만, 분기 최대 매출액을 달성은 긍정적임
+</dd><dd> 1Q25 Preview: 전년동기 대비 매출액 증가세는 지속 전망, 신규 서비스 지속 런칭은 중장기 성장에 긍정적</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">23,000</span></td>
+                    <td class="r">&nbsp;14,500</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">유진투자증권<br>박종선</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A108320');">LX세미콘 <span class="txt1">A108320</span></a><span class="txt2"> -점진적인 확대에 의미</span></dt>
+                            <dd> 주가 상승 모멘텀(신사업 확대 구간)을 기다리며...
+</dd><dd> 2025년 미미한 매출 성장에 그칠 전망. 다만 수익성 개선 긍정적
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">75,000</span></td>
+                    <td class="r">&nbsp;61,300</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">신한투자증권<br>남궁현</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A234340');">헥토파이낸셜 <span class="txt1">A234340</span></a><span class="txt2"> -신한 속보; 도약을 위한 성장통</span></dt>
+                            <dd> 4Q24 Review: 휴대폰결제 고성장에 따른 충당금 부담 직면
+</dd><dd> 글로벌 플랫폼 정산 비즈니스 등 주요 신사업 관련 업데이트</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;14,500</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">신한투자증권<br>박현우</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A393890');">더블유씨피 <span class="txt1">A393890</span></a><span class="txt2"> -A Prolonged Winter</span></dt>
+                            <dd> Lower target price to KRW12,000 
+</dd><dd> 1Q25 preview: Earnings to continue to suffer; sluggish demand, one-off costs 
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">12,000</span></td>
+                    <td class="r">&nbsp;9,300</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">KB증권<br>이창민</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A176750');">듀켐바이오 <span class="txt1">A176750</span></a><span class="txt2"> -알츠하이머 진단 시장은 이제 제 겁니다.</span></dt>
+                            <dd> 진단용 방사성의약품 제조/판매 전문 기업
+</dd><dd> 알츠하이머 치료를 위한 첫 걸음, PET-CT 진단
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;11,780</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">현대차증권<br>여노래</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A004000');">롯데정밀화학 <span class="txt1">A004000</span></a><span class="txt2"> -반등하고 있는 ECH</span></dt>
+                            <dd> ECH-프로필렌 spot spread $895/t, 이론상 BEP 레벨에 근접
+</dd><dd> 1Q 정기보수로 시황 반등 영향은 제한적, 2Q 본격 개선 예상
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">55,000</span></td>
+                    <td class="r">&nbsp;42,300</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">DB금융투자<br>한승재</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A383800');">LX홀딩스 <span class="txt1">A383800</span></a><span class="txt2"> -저평가 해소는 주주환원 확대</span></dt>
+                            <dd> 계열사 지배력 강화 
+</dd><dd> 주주친화적이 되어야 할 주주가치 제고 계획 
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">8,000</span></td>
+                    <td class="r">&nbsp;6,610</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">BNK투자증권<br>김장원</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A012330');">현대모비스 <span class="txt1">A012330</span></a><span class="txt2"> -A/S 부품 수요가 더 확대된다면</span></dt>
+                            <dd> 미국의 신차 인플레이션이 반가운 이유
+</dd><dd> 자동차 섹터 최선호주 유지</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">375,000</span></td>
+                    <td class="r">&nbsp;251,000</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">키움증권<br>신윤철</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/03/06</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A000270');">기아 <span class="txt1">A000270</span></a><span class="txt2"> -여전히 본 게임은 상호관세 부과</span></dt>
+                            <dd> USMCA 충족 차량 관세 한 달 유예
+</dd><dd> DPS 6,500원 &amp; 기준일 3월 19일</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">OUTPERFORM</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">115,000</span></td>
+                    <td class="r">&nbsp;95,900</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">키움증권<br>신윤철</span></td>
                 </tr>
                 </tbody>
 						</table>
