@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stock Reports</title>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css">
+    <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+    <script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
+    <style>
+        body {
+            font-family: sans-serif;
+        }
+        table {
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <h1>Stock Reports</h1>
+    <table id="stockReportTable" class="display">
+        <thead>
+            <tr>
+                <th>'발행일자'</th>
+                <th>'종목코드'</th>
+                <th>'종목명'</th>
+                <th>'투자의견'</th>
+                <th>'목표가'</th>
+                <th>'당일종가'</th>
+                <th>'당일이후최고가'</th>
+                <th>'최신종가'</th>
+                <th>'상승률'</th>
+                <th>'등급'</th>
+                <th>'회사명'</th>
+                <th>'분석자'</th>
+                <th>'목표달성여부'</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Data will be loaded here -->
+        </tbody>
+    </table>
+
+    <script>
+        $(document).ready(function() {
+            $('#stockReportTable').DataTable({
+                ajax: {
+                    url: '/api/stock_reports',
+                    dataSrc: ''
+                },
+                columns: [
+                    { data: '발행일자' },
+                    { data: '종목코드' },
+                    { data: '종목명' },
+                    { data: '투자의견' },
+                    { data: '목표가' },
+                    { data: '종가' },
+                    { data: '최고가' },
+                    { data: '최신종가' },
+                    { data: '상승률' },
+                    { data: '등급' },
+                    { data: '회사명' },
+                    { data: '분석자' },
+                    { data: '목표달성여부' }
+                ]
+            });
+        });
+    </script>
+</body>
+</html>
