@@ -70,3 +70,5 @@ if __name__ == "__main__":
     get_analyst_and_company_data(conn)
 
     conn.close()
+
+

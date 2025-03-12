@@ -32,7 +32,7 @@ def get_stock_report_data():
                     cast(sr.stock_goal as float) stock_goal,
                     cast((select stock_price from stock_hst where stock_code = sr.stock_code and stock_Date = sr.report_date) as float) close_price,
                     cast((select stock_price from stock_hst where stock_code = sr.stock_code and stock_date = (select max(stock_date) from stock_hst where stock_code = sr.stock_code)) as flost) last_close_price,
-                    cast((select max(stock_price) from stock_hst where stock_code = sr.stock_code and stock_date >= sr.report_date) as flost) max_price,
+                    cast((select max(stock_max_price) from stock_hst where stock_code = sr.stock_code and stock_date >= sr.report_date) as flost) max_price,
                     sr.report_analyst_grade,
                     sr.report_comp,
                     sr.report_analyst,
