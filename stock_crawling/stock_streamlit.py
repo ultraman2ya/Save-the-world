@@ -4,7 +4,7 @@ import pandas as pd
 
 # Streamlit 앱 설정
 st.set_page_config(
-    page_title="Stock Data Viewer",
+    page_title="Find Insight",
     page_icon="📈",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -18,7 +18,39 @@ def get_db_connection():
 # 데이터베이스에서 데이터 가져오는 함수
 def load_data(table_name, conn):
     try:
-        query = f"SELECT * FROM {table_name}"
+        query = f"""
+        select 
+            report_date,
+            stock_code,
+            stock_name,
+            report_opinion,
+            stock_goal,
+            close_price,
+            max_price,
+            last_close_price,
+            round(((stock_goal - last_close_price)/last_close_price)*100) up_per,
+            report_analyst_grade,
+            report_comp,
+            report_analyst,
+            aog
+        from (
+                select sr.report_date,
+                    sr.stock_code,
+                    sl.stock_name,
+                    sr.report_opinion,
+                    cast(sr.stock_goal as float) stock_goal,
+                    cast((select stock_price from stock_hst where stock_code = sr.stock_code and stock_Date = sr.report_date) as float) close_price,
+                    cast((select stock_price from stock_hst where stock_code = sr.stock_code and stock_date = (select max(stock_date) from stock_hst where stock_code = sr.stock_code)) as flost) last_close_price,
+                    cast((select max(stock_max_price) from stock_hst where stock_code = sr.stock_code and stock_date >= sr.report_date) as flost) max_price,
+                    sr.report_analyst_grade,
+                    sr.report_comp,
+                    sr.report_analyst,
+                    (select min(stock_date) from stock_hst where stock_code = sr.stock_code and stock_date >= sr.report_date and cast(stock_max_price as integer) >= cast(sr.stock_goal as integer)) aog
+                from stock_report sr, stock_list sl
+                where sr.stock_code = sl.stock_code
+                and sr.report_date >= ((select max(report_date) from stock_report) - 7)
+        ) order by report_date desc
+        """
         df = pd.read_sql_query(query, conn)
         return df
     except Exception as e:
