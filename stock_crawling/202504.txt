@@ -1,0 +1,2213 @@
+<table class="us_table_ty1 h_pd">
+							<caption class="cphidden">리포트요약</caption>
+							<colgroup>
+								<col style="width:8%">
+								<col>
+								<col style="width:11%">
+								<col style="width:10%">
+								<col style="width:10%">
+								<col style="width:12%">
+							</colgroup>
+							<thead>
+								<tr class="th_b" id="OrdGroup">
+									<th class="sortcol clf" scope="col"><a href="" class="sorticon_up" id="sortde"><span class="txt">일자</span><span class="blind">내림차순정렬</span></a></th>
+									<th class="sortcol" scope="col"><a href="" class="sorticon_de"><span class="txt">종목명 - 리포트 요약</span><span class="blind">정렬없음</span></a></th>
+									<th class="sortcol" scope="col"><a href="" class="sorticon_de"><span class="txt">투자의견</span><span class="blind">정렬없음</span></a></th>
+									<th class="sortcol" scope="col"><a href="" class="sorticon_de"><span class="txt">목표주가</span><span class="blind">정렬없음</span></a></th>
+									<th class="sortcol" scope="col"><a href="" class="sorticon_de"><span class="txt">전일종가</span><span class="blind">정렬없음</span></a></th>
+									<th class="sortcol cle" scope="col"><a href="" class="sorticon_de"><span class="txt">제공처/작성자</span><span class="blind">정렬없음</span></a></th>
+								</tr>
+							</thead>
+							<tbody id="GridBody">            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A000080');">하이트진로 <span class="txt1">A000080</span></a><span class="txt2"> -1Q25 Preview</span></dt>
+                            <dd> 1Q25 Preview
+</dd><dd> 투자의견 BUY, 목표주가 31,000원 유지</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">31,000</span></td>
+                    <td class="r">&nbsp;19,430</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">iM증권<br>이경신</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A000080');">하이트진로 <span class="txt1">A000080</span></a><span class="txt2"> -높아진 이익 체력</span></dt>
+                            <dd> 경쟁사의 가격 인상 진행
+</dd><dd> 1Q25 Preview: 시장 눈높이 부합 전망</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">28,000</span></td>
+                    <td class="r">&nbsp;19,430</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img best">NH투자증권<br>주영훈</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A000120');">CJ대한통운 <span class="txt1">A000120</span></a><span class="txt2"> -밸류에이션 저평가 국면 진입</span></dt>
+                            <dd> 변하지 않은 투자 포인트, 하반기 이익 모멘텀 부각을 기대
+</dd><dd> 신규 서비스 관련 비용으로 1분기 택배 수익성 둔화 불가피</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">130,000</span></td>
+                    <td class="r">&nbsp;85,800</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">NH투자증권<br>정연승</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A000660');">SK하이닉스 <span class="txt1">A000660</span></a><span class="txt2"> -연간 실적 Consensus가 매분기 올라갈 것으로 예상</span></dt>
+                            <dd> 부족한 HBM Capa를 확보하기 위해 일부 NAND Capa를 HBM으로 할당하고 있으며 청주 M15X의 조기 가동을 위해 장비 반입을 서두르고 있는 것으로 추정
+</dd><dd> AI 메모리 반도체 대표 기업으로서 Buy &amp; Hold 전략 권고</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">280,000</span></td>
+                    <td class="r">&nbsp;197,000</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">현대차증권<br>노근창</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A000660');">SK하이닉스 <span class="txt1">A000660</span></a><span class="txt2"> -1Q25 Preview: 부각될 실적 안정성</span></dt>
+                            <dd> 중장기 기술 변화를 선도 중
+</dd><dd> 비수기에도 양호한 실적을 이어갈 것</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">290,000</span></td>
+                    <td class="r">&nbsp;197,000</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">NH투자증권<br>류영호</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A000720');">현대건설 <span class="txt1">A000720</span></a><span class="txt2"> -2025 CEO Investor Day 후기: Re-rating을 앞둔 멀티플</span></dt>
+                            <dd> 핵심 I: 대형 원전 18개, SMR 5개 프로젝트 수주 pool 확인
+</dd><dd> 국내외 3.5세대 대형 원전 대표 노형부터 SMR까지 커버리지
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">53,000</span></td>
+                    <td class="r">&nbsp;36,400</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한국투자증권<br>강경태</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A000880');">한화 <span class="txt1">A000880</span></a><span class="txt2"> -지분 증여로 정면 돌파</span></dt>
+                            <dd> 김승연 회장 보유지분 11.3% 세 아들에게 각각 4.9%, 3.2%, 3.2% 증여
+</dd><dd> 한화 그룹의 일련의 행보와 관련된 시장의 오해와 억측을 불식시킬 전망
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">60,000</span></td>
+                    <td class="r">&nbsp;43,200</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">대신증권<br>양지환</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A000880');">한화 <span class="txt1">A000880</span></a><span class="txt2"> -지분증여로 승계 관련 주가 불확실성 해소</span></dt>
+                            <dd> 김승연 회장, 지분증여 결정
+</dd><dd> 지분증여로 승계 관련 주가 불확실성 해소</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">54,000</span></td>
+                    <td class="r">&nbsp;43,200</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">SK증권<br>최관순</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A001390');">KG케미칼 <span class="txt1">A001390</span></a><span class="txt2"> -KG그룹을 대표하는 비료회사</span></dt>
+                            <dd> 비료회사이자 KG그룹 대부분의 회사를 연결종속회사로 인식
+</dd><dd> KG 정밀화학
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;3,625</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한국IR협의회(리서치센터)<br>김선호</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A001680');">대상 <span class="txt1">A001680</span></a><span class="txt2"> -1Q25 Preview</span></dt>
+                            <dd> 1Q25 Preview
+</dd><dd> 투자의견 BUY, 목표주가 33,000원으로 상향</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">33,000</span></td>
+                    <td class="r">&nbsp;23,450</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">iM증권<br>이경신</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A003230');">삼양식품 <span class="txt1">A003230</span></a><span class="txt2"> -숨 고르기는 끝났다</span></dt>
+                            <dd> 1Q25 실적, 기대치에 부합할 전망
+</dd><dd> 해외 실적 성장 및 점유율 상승세 지속
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">1,080,000</span></td>
+                    <td class="r">&nbsp;847,000</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">IBK투자증권<br>김태현</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A003490');">대한항공 <span class="txt1">A003490</span></a><span class="txt2"> -Deep Value 구간</span></dt>
+                            <dd> 투자의견 Buy, 목표주가 31,000원 유지
+</dd><dd> 1Q25 연결 영업이익 4,973억원(-7.5% YoY, +5.5% QoQ) 예상</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">31,000</span></td>
+                    <td class="r">&nbsp;21,500</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">iM증권<br>배세호</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A004020');">현대제철 <span class="txt1">A004020</span></a><span class="txt2"> -컨센서스 하회하는 실적 예상</span></dt>
+                            <dd> 미국 제철소 건설 추진, 성장 동력으로 기대
+</dd><dd> 1Q25 Preview: 컨센서스 하회 예상</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">40,000</span></td>
+                    <td class="r">&nbsp;24,600</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">NH투자증권<br>이재광</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A004370');">농심 <span class="txt1">A004370</span></a><span class="txt2"> -1Q25 Preview</span></dt>
+                            <dd> 1Q25 Preview
+</dd><dd> 투자의견 BUY, 목표주가 550,000원 유지</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">550,000</span></td>
+                    <td class="r">&nbsp;406,000</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">iM증권<br>이경신</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A005180');">빙그레 <span class="txt1">A005180</span></a><span class="txt2"> -1Q25 Preview</span></dt>
+                            <dd> 1Q25 Preview
+</dd><dd> 투자의견 BUY, 목표주가 125,000원으로 상향</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">125,000</span></td>
+                    <td class="r">&nbsp;94,700</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">iM증권<br>이경신</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A005300');">롯데칠성 <span class="txt1">A005300</span></a><span class="txt2"> -1Q25 Preview</span></dt>
+                            <dd> 1Q25 Preview
+</dd><dd> 투자의견 BUY, 목표주가 160,000원으로 하향조정</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">160,000</span></td>
+                    <td class="r">&nbsp;106,100</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">iM증권<br>이경신</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A005490');">POSCO홀딩스 <span class="txt1">A005490</span></a><span class="txt2"> -전분기비 개선되는 실적 전망</span></dt>
+                            <dd> 2분기부터 철강산업에 긍정적인 요인들이 실적에 반영될 전망
+</dd><dd> 1Q25 Preview: 기저효과 및 철강 밀마진 개선으로 전분기비 개선</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">390,000</span></td>
+                    <td class="r">&nbsp;279,500</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">NH투자증권<br>이재광</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A005490');">POSCO홀딩스 <span class="txt1">A005490</span></a><span class="txt2"> -철강/인프라는 개선 예상. 에너지소재는 아직…</span></dt>
+                            <dd> 전년동기대비 이익 증가 및 에너지소재 흑자전환이 필요
+</dd><dd> 1Q 영업이익 5,715억원(+495.4% QoQ) 전망. 컨센서스 소폭 하회 예상
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">330,000</span></td>
+                    <td class="r">&nbsp;279,500</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">신한투자증권<br>박광래</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A005490');">POSCO홀딩스 <span class="txt1">A005490</span></a><span class="txt2"> -Steel and infrastructure expected to improve</span></dt>
+                            <dd> In need of YoY profit growth and energy materials turnaround
+</dd><dd> 1Q25 OP to come in at KRW571.5bn (+495.4% QoQ), slightly below consensus
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">330,000</span></td>
+                    <td class="r">&nbsp;279,500</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">신한투자증권<br>박광래</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A005490');">POSCO홀딩스 <span class="txt1">A005490</span></a><span class="txt2"> -하반기에 업황의 긍정적 모멘텀 기대</span></dt>
+                            <dd> 1Q 철강 실적 개선되나, 이차전지소재는 부진 지속
+</dd><dd> 하반기가 철강, 이차전지소재 모두 중요한 변곡점</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">400,000</span></td>
+                    <td class="r">&nbsp;279,500</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">BNK투자증권<br>김현태</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A005610');">SPC삼립 <span class="txt1">A005610</span></a><span class="txt2"> -1Q25 Preview</span></dt>
+                            <dd> 1Q25 Preview
+</dd><dd> 투자의견 BUY, 목표주가 86,000원 유지</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">86,000</span></td>
+                    <td class="r">&nbsp;61,100</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">iM증권<br>이경신</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A005610');">SPC삼립 <span class="txt1">A005610</span></a><span class="txt2"> -제가 알던 SPC삼립 맞나요?</span></dt>
+                            <dd> 단기 투자포인트: ① 신제품 중심의 Bakery 실적 성장 기대 
+</dd><dd> 중장기 투자포인트: ② Bakery 수출 확대 
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;61,100</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한화투자증권<br>한유정</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A005610');">SPC삼립 <span class="txt1">A005610</span></a><span class="txt2"> -1Q25 Pre: 야구인이 캐리 중</span></dt>
+                            <dd> ‘크보빵’이 뭐길래
+</dd><dd> 1Q25 Pre: 시장 기대 부합 예상
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">80,000</span></td>
+                    <td class="r">&nbsp;61,100</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">하나증권<br>심은주</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A005680');">삼영전자 <span class="txt1">A005680</span></a><span class="txt2"> -2025년 하이브리드 콘덴서 기대감</span></dt>
+                            <dd> 하이브리드 콘덴서 사업 본격화
+</dd><dd> 2025년 수익성개선 기대감
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">13,000</span></td>
+                    <td class="r">&nbsp;10,090</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">LS증권<br>정홍식</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A005930');">삼성전자 <span class="txt1">A005930</span></a><span class="txt2"> -프리미엄과 범용 모두 경쟁이 심화되고 있다</span></dt>
+                            <dd> Foundry 사업부는 Tier1고객 부족과 Captive 거래선의 부진으로 연내 회복되기는 어려울 것으로 보임
+</dd><dd> 동사 주가는 1) Valuation 매력과 2) 자사주 소각, 3) 범용 메모리 제품 가격 상승 기대감으로 상대적으로 양호한 모습을 보이고 있지만 프리미엄 제품에 대한 기술 초격차가 확인되지 않는다면 주가 재평가에는 한계가 있을 것으로 예상</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">71,000</span></td>
+                    <td class="r">&nbsp;58,800</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">현대차증권<br>노근창</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A005940');">NH투자증권 <span class="txt1">A005940</span></a><span class="txt2"> -보수적인 운용 기조 지속, 주주환원 방법론은 긍정적</span></dt>
+                            <dd> 투자의견 Buy, 목표주가 18,000원 유지
+</dd><dd> 1Q25 연결기준 지배주주순이익 1,897억원, 컨센서스를 5.6% 하회 전망</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">18,000</span></td>
+                    <td class="r">&nbsp;13,800</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">KB증권<br>강승건 외2</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A006400');">삼성SDI <span class="txt1">A006400</span></a><span class="txt2"> -소형전지 업황 회복과 비용 개선이 절실</span></dt>
+                            <dd> 투자의견 ‘중립’으로 분석 재개
+</dd><dd> 전기차에 소형전지까지 업황 부진
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="신규" class="gp_img new">중립</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;193,600</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한국투자증권<br>최문선</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A006800');">미래에셋증권 <span class="txt1">A006800</span></a><span class="txt2"> -Impairment Loss, Capital Reallocation Should Improve ROE</span></dt>
+                            <dd> Upgrade to BUY, raise target price to KRW11,000 
+</dd><dd> 1Q25 preview: Consolidated NP attributable to controlling interests at KRW238.3bn, above market consensus by 8.8%</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">11,000</span></td>
+                    <td class="r">&nbsp;9,350</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">KB증권<br>강승건 외2</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A006800');">미래에셋증권 <span class="txt1">A006800</span></a><span class="txt2"> -손상부담 축소와 자본 재배치에 따른 ROE 개선 기대</span></dt>
+                            <dd> 투자의견 Buy로 상향, 목표주가 11,000원으로 상향
+</dd><dd> 1Q25 연결기준 지배주주순이익 2,383억원, 컨센서스 8.8% 상회</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">11,000</span></td>
+                    <td class="r">&nbsp;9,350</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">KB증권<br>강승건 외2</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A007210');">벽산 <span class="txt1">A007210</span></a><span class="txt2"> -선행 지표들은 반등을 가르키기 시작</span></dt>
+                            <dd> 화재 안전 관련 법규 강화로 무기단열재 수요 급증
+</dd><dd> 견조한 그라스울 수요와 업황 회복이 맞물리며 재성장 국면 진입 전망</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;2,155</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">NH투자증권<br>심의섭</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A007310');">오뚜기 <span class="txt1">A007310</span></a><span class="txt2"> -1Q25 Preview</span></dt>
+                            <dd> 1Q25 Preview
+</dd><dd> 투자의견 BUY, 목표주가 600,000원 유지</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">600,000</span></td>
+                    <td class="r">&nbsp;408,000</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">iM증권<br>이경신</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A009150');">삼성전기 <span class="txt1">A009150</span></a><span class="txt2"> -IT 불확실성 속에서도 MLCC 성장스토리는 유효</span></dt>
+                            <dd> 중국 정부의 IT 보조금은 1분기 단기 실적보다는 연간에 걸쳐 일부 드러날 것으로 예상됨
+</dd><dd> IT 수요 외에도 전장, Server향 MLCC 매출이 확대되며 Mix가 개선될 것으로 예상되며, 기판 내에서도 FC-BGA 매출은 지속적으로 확대될 것
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">190,000</span></td>
+                    <td class="r">&nbsp;128,700</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">현대차증권<br>김종배</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A009240');">한샘 <span class="txt1">A009240</span></a><span class="txt2"> -1Q25 Preview: 배당만 보자</span></dt>
+                            <dd> 영업이익은 컨센서스에 부합할 것, B2B 부진을 B2C로 만회
+</dd><dd> 2025년에도 고배당 매력도 부각될 것
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">중립</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;40,550</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한국투자증권<br>강경태</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A012450');">한화에어로스페이스 <span class="txt1">A012450</span></a><span class="txt2"> -신한 속보; ㈜한화 지분 증여, 유상증자 논란 정면돌파</span></dt>
+                            <dd> ㈜한화 김승연 회장 보유 지분 일부 증여로 본격적인 3세 경영 개막
+</dd><dd> 한화에어로스페이스, 본업 집중의 힘을 보여줄 때</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;673,000</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img best">신한투자증권<br>이동헌</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A015760');">한국전력 <span class="txt1">A015760</span></a><span class="txt2"> -전력직접구매 제도 이슈 관련</span></dt>
+                            <dd> 전력직접구매 제도는 2003년부터 시행 중이나 그동안은 유명무실
+</dd><dd> 한전 전기요금 인상으로 기업들 전력 직접구매 Need 증가
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">30,000</span></td>
+                    <td class="r">&nbsp;21,450</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">LS증권<br>성종화</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A015760');">한국전력 <span class="txt1">A015760</span></a><span class="txt2"> -Comment on direct electricity purchase</span></dt>
+                            <dd> Direct electricity purchase in place since 2003 with no real benefit
+</dd><dd> Growing need from companies for direct power purchase
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">30,000</span></td>
+                    <td class="r">&nbsp;21,450</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">LS증권<br>성종화</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A016360');">삼성증권 <span class="txt1">A016360</span></a><span class="txt2"> -컨센서스를 상회하는 1분기 실적, 수신 기반 확대 기대 유지</span></dt>
+                            <dd> 투자의견 Buy, 목표주가 64,000원 유지
+</dd><dd> 1Q25 지배주주순이익 2,504억원으로 컨센서스 4.7% 상회 전망</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">64,000</span></td>
+                    <td class="r">&nbsp;45,350</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">KB증권<br>강승건 외2</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A024110');">기업은행 <span class="txt1">A024110</span></a><span class="txt2"> -배당주로서의 매력 유효(향후 분기 및 반기배당과 연결 배당성향 제시 필요)</span></dt>
+                            <dd> 1Q25 Preview: 경상적 대손비용 증가로 소폭 감소 예상 
+</dd><dd> 투자의견 BUY 및 목표주가 16,500원 유지</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">16,500</span></td>
+                    <td class="r">&nbsp;14,590</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img best">BNK투자증권<br>김인</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A031440');">신세계푸드 <span class="txt1">A031440</span></a><span class="txt2"> -1Q25 Preview</span></dt>
+                            <dd> 1Q25 Preview
+</dd><dd> 투자의견 BUY, 목표주가 50,000원으로 하향조정</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">50,000</span></td>
+                    <td class="r">&nbsp;29,900</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">iM증권<br>이경신</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A033780');">KT&amp;G <span class="txt1">A033780</span></a><span class="txt2"> -1Q25 Preview</span></dt>
+                            <dd> 1Q25 Preview
+</dd><dd> 투자의견 BUY, 목표주가 150,000원 유지</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">150,000</span></td>
+                    <td class="r">&nbsp;102,200</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">iM증권<br>이경신</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A033780');">KT&amp;G <span class="txt1">A033780</span></a><span class="txt2"> -견고한 내수, 가속화되는 글로벌</span></dt>
+                            <dd> 투자의견 BUY, 목표주가 130,000원 제시
+</dd><dd> 일반 궐련 → 궐련형 전자담배 수요 이동 지속
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="신규" class="gp_img new">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="신규" class="gp_img new">130,000</span></td>
+                    <td class="r">&nbsp;102,200</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">대신증권<br>정한솔</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A034220');">LG디스플레이 <span class="txt1">A034220</span></a><span class="txt2"> -분명 잘하고 있다</span></dt>
+                            <dd> OLED 패널 중심의 Business Portfolio를 구축하고 있으며, 현재는 B2B IT LCD를 제외하고 OLED 매출 비중이 지속적으로 확대되고 있음
+</dd><dd> 지난 해 일회성 비용, IT OLED의 예상치 하회로 인해 기대치를 달성하지 못했지만, 전년 대비 수익성은 큰 폭으로 개선되었고, OLED 중심의 외형성장과 인건비와 감가상각비 축소로 인해 올해 역시 큰 폭의 이익 개선이 이뤄질 것</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">13,500</span></td>
+                    <td class="r">&nbsp;8,810</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">현대차증권<br>김종배</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A036930');">주성엔지니어링 <span class="txt1">A036930</span></a><span class="txt2"> -높아지는 기대감</span></dt>
+                            <dd> 올해는 중장기 성장을 위한 모멘텀 확보 기간
+</dd><dd> 양호한 1분기 실적 전망</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">46,000</span></td>
+                    <td class="r">&nbsp;38,700</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">NH투자증권<br>류영호</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A039490');">키움증권 <span class="txt1">A039490</span></a><span class="txt2"> -리테일 채널에서 Brokerage 경쟁력 유지</span></dt>
+                            <dd> 투자의견 Buy, 목표주가 183,000원 유지
+</dd><dd> 1Q25 연결순이익은 2,267억원으로 컨센서스 부합 전망</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">183,000</span></td>
+                    <td class="r">&nbsp;128,000</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">KB증권<br>강승건 외2</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A049770');">동원F&amp;B <span class="txt1">A049770</span></a><span class="txt2"> -1Q25 Preview</span></dt>
+                            <dd> 1Q25 Preview
+</dd><dd> 투자의견 BUY, 목표주가 50,000원 유지</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">50,000</span></td>
+                    <td class="r">&nbsp;32,400</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">iM증권<br>이경신</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A051500');">CJ프레시웨이 <span class="txt1">A051500</span></a><span class="txt2"> -1Q25 Preview</span></dt>
+                            <dd> 1Q25 Preview
+</dd><dd> 투자의견 BUY, 목표주가 32,000원 유지</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">32,000</span></td>
+                    <td class="r">&nbsp;23,100</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">iM증권<br>이경신</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A051900');">LG생활건강 <span class="txt1">A051900</span></a><span class="txt2"> -신뢰를 쌓아가는 과정</span></dt>
+                            <dd> 점진적인 펀더멘털 개선, 속도보다는 방향에 초점
+</dd><dd> 1Q25 Preview: 컨센서스 소폭 하회 예상</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">HOLD</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">340,000</span></td>
+                    <td class="r">&nbsp;312,500</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">NH투자증권<br>정지윤</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A057050');">현대홈쇼핑 <span class="txt1">A057050</span></a><span class="txt2"> -주주환원 정책 확대 기대</span></dt>
+                            <dd> 저평가 매력
+</dd><dd> 1분기, 전년 대비 소폭 하락 전망</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">65,000</span></td>
+                    <td class="r">&nbsp;49,950</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img best">NH투자증권<br>주영훈</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A060280');">큐렉소 <span class="txt1">A060280</span></a><span class="txt2"> -실적 회복 과정</span></dt>
+                            <dd> 큐렉소: 인공관절 수술로봇
+</dd><dd> 2025 년 다시 정상궤도 진입
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;8,070</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">SK증권<br>박찬솔</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A064350');">현대로템 <span class="txt1">A064350</span></a><span class="txt2"> -형이 왜 거기서 나와</span></dt>
+                            <dd> 2026년 수출절벽 예상치 그대로 두지만, 폴란드-슬로바키아 K2 협상 등으로 K2PL의 2차 계약이 임박했다고 판단
+</dd><dd> K2의 단가가 1차 실행계약보다 높아서, 2026~2027년 실적과 적정주가 상향도 가능</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">HOLD</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">110,000</span></td>
+                    <td class="r">&nbsp;105,900</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img best">다올투자증권<br>최광식</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A069960');">현대백화점 <span class="txt1">A069960</span></a><span class="txt2"> -영 앤 트랜디 에코붐</span></dt>
+                            <dd> 현대백화점: 판교/더현대서울/무역점/본점 하드캐리
+</dd><dd> 현대백화점: 백화점 기업
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;59,300</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">SK증권<br>박찬솔</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A071050');">한국금융지주 <span class="txt1">A071050</span></a><span class="txt2"> -Continued Efforts to Expand Operational Base</span></dt>
+                            <dd> Maintain BUY, TP of KRW100,000 
+</dd><dd> 1Q25E consolidated NP (to control. int.) of KRW335.6bn, 3.4% below consensus</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">100,000</span></td>
+                    <td class="r">&nbsp;74,400</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">KB증권<br>강승건 외2</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A071050');">한국금융지주 <span class="txt1">A071050</span></a><span class="txt2"> -영업기반 확대를 위한 노력 지속</span></dt>
+                            <dd> 투자의견 Buy, 목표주가 100,000원 유지
+</dd><dd> 1Q25 연결기준 지배주주순이익 3,356억원으로 컨센서스를 3.4% 하회</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">100,000</span></td>
+                    <td class="r">&nbsp;74,400</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">KB증권<br>강승건 외2</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A086280');">현대글로비스 <span class="txt1">A086280</span></a><span class="txt2"> -관세에 대한 우려 과도</span></dt>
+                            <dd> 2025년 1분기 실적 시장 기대치를 상회하는 깜짝 실적 전망
+</dd><dd> PCC운임 인상, 비계열물량 확대, CKD부문 매출 증가 등의 영향으로 추정
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">170,000</span></td>
+                    <td class="r">&nbsp;117,600</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">대신증권<br>양지환</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A086280');">현대글로비스 <span class="txt1">A086280</span></a><span class="txt2"> -Tariff fears excessively priced in</span></dt>
+                            <dd> Maintain Buy rating; TP kept at W170,000
+</dd><dd> Record-high 1Q25 earnings to quell market concerns</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">170,000</span></td>
+                    <td class="r">&nbsp;117,600</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">대신증권<br>양지환</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A089030');">테크윙 <span class="txt1">A089030</span></a><span class="txt2"> -고객사 확대 및 적용 공정 증가 예상</span></dt>
+                            <dd> HBM용 테스트 장비 산업에 Cube Prober라는 새로운 방식의 프로브스테이션을 도입중
+</dd><dd> 최근 동사의 2025년 납품 물량에 대한 눈높이가 낮아지며 주가가 부침을 겪고 있음
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">70,000</span></td>
+                    <td class="r">&nbsp;33,250</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">현대차증권<br>박준영</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A089600');">나스미디어 <span class="txt1">A089600</span></a><span class="txt2"> -25년 키워드는 회복, OTT, 옥외</span></dt>
+                            <dd> 전년보다는 양호한 실적 전망
+</dd><dd> 25년 키워드는 회복, OTT, 옥외</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">20,000</span></td>
+                    <td class="r">&nbsp;14,190</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">DB금융투자<br>신은정</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A097950');">CJ제일제당 <span class="txt1">A097950</span></a><span class="txt2"> -1Q25 Preview</span></dt>
+                            <dd> 1Q25 Preview
+</dd><dd> 투자의견 BUY, 목표주가 390,000원 유지</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">390,000</span></td>
+                    <td class="r">&nbsp;249,000</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">iM증권<br>이경신</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A139130');">DGB금융지주 <span class="txt1">A139130</span></a><span class="txt2"> -실적 정상화의 원년</span></dt>
+                            <dd> 실적 턴 어라운드 기대감 유효
+</dd><dd> 1Q25 Preview: 대손비용률 하락에 따른 호실적 기대
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">11,500</span></td>
+                    <td class="r">&nbsp;9,050</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">신한투자증권<br>은경완</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A145720');">덴티움 <span class="txt1">A145720</span></a><span class="txt2"> -행동주의 펀드 지분 매입 공시, 속단은 이르지만 긍정적</span></dt>
+                            <dd> 침체된 주가를 깨우는 행동주의 펀드 주주 공시
+</dd><dd> 투자 목적은 ‘일반 투자 목적’으로 향후 구체적인 주주 행동 확인 필요
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">90,000</span></td>
+                    <td class="r">&nbsp;79,000</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">삼성증권<br>정동희</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A145720');">덴티움 <span class="txt1">A145720</span></a><span class="txt2"> -Activist fund secures stake</span></dt>
+                            <dd> Shares revving up as activist fund acquires stake…
+</dd><dd> …for the purpose of ‘general investment’
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">90,000</span></td>
+                    <td class="r">&nbsp;79,000</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">삼성증권<br>정동희</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A145720');">덴티움 <span class="txt1">A145720</span></a><span class="txt2"> -역사적 저점 밸류에이션을 벗어날 좋은 마중물</span></dt>
+                            <dd> 덴티움의 3대주주로 올라선 행동주의 펀드
+</dd><dd> 역사적 저점 밸류에이션 벗어날 좋은 마중물이 될 것</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;79,000</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">미래에셋증권<br>김충현</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A178320');">서진시스템 <span class="txt1">A178320</span></a><span class="txt2"> -ESS에 이은 우주 사업 성장</span></dt>
+                            <dd> 알루미늄 소재 가공 1위 업체
+</dd><dd> 2025년 영업이익 1,714억원(+57.6% YoY) 전망
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;21,800</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">메리츠증권<br>정지수</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A213420');">덕산네오룩스 <span class="txt1">A213420</span></a><span class="txt2"> -주가, 실적은 지금이 저점. 적극적인 비중 확대 전략 유효</span></dt>
+                            <dd> OLED에 대한 글로벌 세트업체의 수요는 지속되고 이로 인해 IT OLED로의 전환은 순항 중이며, 중국 내 OLED 전환으로 인한 M/S 하락은 국내 업체들에게는 큰 우려사항이 아님(기존 중국 Exposure가 매우 낮음)
+</dd><dd> 이러한 상황 속에서 최종 고객사의 패널 업그레이드는 지속되고 있고, 이는 동사의 실적으로 충분히 증명되고 있음</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">51,000</span></td>
+                    <td class="r">&nbsp;27,900</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">현대차증권<br>김종배</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A259630');">엠플러스 <span class="txt1">A259630</span></a><span class="txt2"> -조립장비 전문기업에서 2차전지 장비, 부품, 소재분야 글로벌 리더로 도약</span></dt>
+                            <dd> 2025년 전고체배터리, 각형배터리 向
+</dd><dd> 대규모 수주 기대2025년 매출액 2,143억원, 영업이익 204억원 전망(컨센서스)</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;7,890</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">그로쓰리서치<br>이재모</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A259960');">크래프톤 <span class="txt1">A259960</span></a><span class="txt2"> -봄은 온다</span></dt>
+                            <dd> 1Q25 Pre: 컨센서스 상회. 분기 최대 영업이익 전망
+</dd><dd> 배틀그라운드 성장, 신작 출시 이상 무
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">500,000</span></td>
+                    <td class="r">&nbsp;340,000</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">하나증권<br>이준호</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A259960');">크래프톤 <span class="txt1">A259960</span></a><span class="txt2"> -1분기 호실적에도 다소 아쉬운 inZOI 초반 성과</span></dt>
+                            <dd> 1Q25 실적은 시장 기대치 상회 추정 
+</dd><dd> 놀랄만한 초기 성과는 아닌 상황, 향후 업데이트 성과 중요</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">440,000</span></td>
+                    <td class="r">&nbsp;340,000</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img best">한화투자증권<br>김소혜</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A271560');">오리온 <span class="txt1">A271560</span></a><span class="txt2"> -1Q25 Preview</span></dt>
+                            <dd> 1Q25 Preview
+</dd><dd> 투자의견 BUY, 목표주가 170,000원으로 상향</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">170,000</span></td>
+                    <td class="r">&nbsp;118,100</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">iM증권<br>이경신</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A282330');">BGF리테일 <span class="txt1">A282330</span></a><span class="txt2"> -1Q25 Preview: 올해 봄은 겨울이었나봄</span></dt>
+                            <dd> 영업이익이 시장 기대치를 17.3% 하회할 전망
+</dd><dd> 올해 소매산업 내 편의점 채널의 M/S 회복 어려움</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">140,000</span></td>
+                    <td class="r">&nbsp;102,800</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한국투자증권<br>김명주</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A298040');">효성중공업 <span class="txt1">A298040</span></a><span class="txt2"> -Outlook for robust 1Q25 and 2025 performance</span></dt>
+                            <dd> Strong YoY growth, in-line consensus, above our forecast expected in 1Q25
+</dd><dd> Robust consolidated performance expected for 2025
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">600,000</span></td>
+                    <td class="r">&nbsp;422,000</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">LS증권<br>성종화</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A298040');">효성중공업 <span class="txt1">A298040</span></a><span class="txt2"> -1Q25 호조 &amp; 올해도 호실적 지속 전망</span></dt>
+                            <dd> 1Q25 영업실적 YoY 대호조, 컨센서스 부합, 당사 전망치 소폭 초과 전망
+</dd><dd> 2025년 연결영업실적도 매출 고성장, 수익성 개선 등 호실적 지속 전망
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">600,000</span></td>
+                    <td class="r">&nbsp;422,000</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">LS증권<br>성종화</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A305090');">마이크로디지탈 <span class="txt1">A305090</span></a><span class="txt2"> -진정한 바이오 소부장 대표 기업으로 확정!</span></dt>
+                            <dd> 어제(31일) 한국경제 기사를 통해 마이크로디지탈의 북미 핵심 파트너사인 A사가 100년의 역사를 가지고 FORTUNE 500기업 중 216위에 랭크된 Parker Hannifin이라는 것이 밝혀짐
+</dd><dd> 이는 국내 반도체 소부장 기업이 ASML, Lam Research, Applied Materials와 같은 글로벌 기업에 장비를 공급한 것과 같은 수준으로 평가받을 만한 것이라 분석됨</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;8,950</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">IBK투자증권<br>이건재</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A316140');">우리금융지주 <span class="txt1">A316140</span></a><span class="txt2"> -높은 배당수익률과 적극적 주주환원정책 실천 중</span></dt>
+                            <dd> 4Q24 Preview: 명퇴비용 발생으로 지배주주순이익 감소 예상 
+</dd><dd> 투자의견 매수 및 목표주가 22,000원 유지</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">22,000</span></td>
+                    <td class="r">&nbsp;16,800</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img best">BNK투자증권<br>김인</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A373220');">LG에너지솔루션 <span class="txt1">A373220</span></a><span class="txt2"> -최고의 배터리 회사지만 불확실성과 밸류에이션이 부담</span></dt>
+                            <dd> 투자의견 ‘중립’으로 분석 재개
+</dd><dd> AMPC를 제외하면 연간 영업적자 예상
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="신규" class="gp_img new">중립</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;328,000</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한국투자증권<br>최문선</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A373220');">LG에너지솔루션 <span class="txt1">A373220</span></a><span class="txt2"> -전방 수요 확인 먼저</span></dt>
+                            <dd> 25년 1분기, 영업이익 기준 컨센서스 상회
+</dd><dd> 아직 불확실성 지속되는 단계, 수요 확인 먼저</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">500,000</span></td>
+                    <td class="r">&nbsp;328,000</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">IBK투자증권<br>이현욱</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A375500');">DL이앤씨 <span class="txt1">A375500</span></a><span class="txt2"> -1Q25 Preview: 예상된 허들</span></dt>
+                            <dd> 마지막으로 악성 현장 털어낼 1Q25 
+</dd><dd> 예고된 1Q25 부진이 연간 실적을 대변하는 것은 아님 
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">52,000</span></td>
+                    <td class="r">&nbsp;41,350</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">메리츠증권<br>문경원</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A383220');">F&amp;F <span class="txt1">A383220</span></a><span class="txt2"> -우려 대비 양호</span></dt>
+                            <dd> 점진적 내수 회복과 중국 성장에 기대를 걸어볼 시점
+</dd><dd> 1Q25 Preview: 컨센서스 부합 예상</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">90,000</span></td>
+                    <td class="r">&nbsp;62,200</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">NH투자증권<br>정지윤</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A418470');">밀리의서재 <span class="txt1">A418470</span></a><span class="txt2"> -다각화된 판매 채널 통한 성장 기대</span></dt>
+                            <dd> 전자책 구독 서비스 사업을 영위하는 회사
+</dd><dd> 투자포인트1. 다각화된 판매 채널 전략에 따른 성장 기대
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;12,300</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한국IR협의회(리서치센터)<br>김태현</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A450080');">에코프로머티 <span class="txt1">A450080</span></a><span class="txt2"> -하반기부터 판매, 손익 모두 긍정적</span></dt>
+                            <dd> 25년 외판 비중 확대로 판매량 점프업
+</dd><dd> 인도네시아 그린에코니켈 연결 편입 효과와 통합 밸류체인 구성으로 인한 수익성 개선 기대</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;56,400</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">신영증권<br>박진수</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/01</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A475560');">더본코리아 <span class="txt1">A475560</span></a><span class="txt2"> -앞으로 잘할게유~</span></dt>
+                            <dd> 약 25 개의 브랜드로 국내외 프랜차이즈 사업 확대
+</dd><dd> B2B&amp;B2C 유통사업 확장 등 푸드테크 사업으로 확장노력
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;29,200</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">리딩투자증권<br>유성만</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A001120');">LX인터내셔널 <span class="txt1">A001120</span></a><span class="txt2"> -저점을 모색할 시점</span></dt>
+                            <dd> 1Q25 Preview: 영업이익 1,040억원, 전분기 대비 회복
+</dd><dd> 2025년, 성장 위한 투자 지속
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">33,000</span></td>
+                    <td class="r">&nbsp;25,100</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">미래에셋증권<br>류제현</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A475830');">오름테라퓨틱 <span class="txt1">A475830</span></a><span class="txt2"> -글로벌 Leading DAC 개발사</span></dt>
+                            <dd> DAC(Degrader Antibody Conjugate)
+</dd><dd> 글로벌 제약사에 기술수출 2 건</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;27,150</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">아이브이리서치<br>리서치센터</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A004170');">신세계 <span class="txt1">A004170</span></a><span class="txt2"> -1Q25 Preview: 변신이 필요해</span></dt>
+                            <dd> 1Q25 Preview: 영업이익 시장기대치 하회 전망</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">170,000</span></td>
+                    <td class="r">&nbsp;136,300</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">유안타증권<br>이승은</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A005930');">삼성전자 <span class="txt1">A005930</span></a><span class="txt2"> -높아진 회복 기대감</span></dt>
+                            <dd> 우려가 반영된 1분기 컨센서스, 2분기부터 회복 구간 진입
+</dd><dd> 1Q25 Preview: 예상치 부합 전망. 메모리 가격 반등이 회복의 신호탄</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">77,000</span></td>
+                    <td class="r">&nbsp;58,800</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">신한투자증권<br>김형태</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A006400');">삼성SDI <span class="txt1">A006400</span></a><span class="txt2"> -유럽 EV 수요 반등에도 1Q25 실적 부진 예상</span></dt>
+                            <dd> 자율주행 상용화가 전기차 시장과 배터리 산업 견인할 전망
+</dd><dd> 주력 고객사 재고 조정 영향으로 1Q25 실적 시장 기대치 하회 전망
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">300,000</span></td>
+                    <td class="r">&nbsp;193,600</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">iM증권<br>정원석</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A008770');">호텔신라 <span class="txt1">A008770</span></a><span class="txt2"> -시내점 경쟁 구도 완화 전망</span></dt>
+                            <dd> 아쉬운 공항, 개선되는 시내
+</dd><dd> 1분기, 아직은 어렵다</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">48,000</span></td>
+                    <td class="r">&nbsp;38,000</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img best">NH투자증권<br>주영훈</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A009150');">삼성전기 <span class="txt1">A009150</span></a><span class="txt2"> -자율주행 시대의 주인공</span></dt>
+                            <dd> 사업포트폴리오의 고도화
+</dd><dd> 빠르게 확대되는 동사의 시장점유율
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">180,000</span></td>
+                    <td class="r">&nbsp;128,700</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">iM증권<br>고의영</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A011070');">LG이노텍 <span class="txt1">A011070</span></a><span class="txt2"> -예상보다 나을 1Q, 주가 하방 압력은 제한적</span></dt>
+                            <dd> 1Q25E Preview-영업이익 컨센서스 상회 전망</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">230,000</span></td>
+                    <td class="r">&nbsp;158,800</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">DB금융투자<br>조현지</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A014830');">유니드 <span class="txt1">A014830</span></a><span class="txt2"> -상반기 눈높이 상향 조정</span></dt>
+                            <dd> 25년도 실적 개선요소 점검: 염화칼륨 가격 강세
+</dd><dd> 1Q25 Preview: 예상 OP 218억원으로 컨센서스(215억원) 부합 전망</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">92,000</span></td>
+                    <td class="r">&nbsp;73,100</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">대신증권<br>위정원</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A023530');">롯데쇼핑 <span class="txt1">A023530</span></a><span class="txt2"> -개선된 재무 구조</span></dt>
+                            <dd> PBR 0.1배에 불과
+</dd><dd> 1분기, 영업이익 반등의 본격화</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">80,000</span></td>
+                    <td class="r">&nbsp;59,300</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img best">NH투자증권<br>주영훈</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A024110');">기업은행 <span class="txt1">A024110</span></a><span class="txt2"> -리스크 관리와 분기배당</span></dt>
+                            <dd> 순이익 7,609억원으로 컨센서스 5% 상회
+</dd><dd> 대손율 0.51%로 전년동기대비 11bp 상승
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">중립</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;14,590</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한국투자증권<br>백두산</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A032350');">롯데관광개발 <span class="txt1">A032350</span></a><span class="txt2"> -비수기에도 역대 최대 드롭액 경신</span></dt>
+                            <dd> 1Q 카지노 방문객 수 및 드롭액 역대 최대치 경신하며 실적 호조 예상
+</dd><dd> 한중 관계 개선 및 위안화 강세로 중국 방문객 수 견조하게 유지될 전망
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">14,000</span></td>
+                    <td class="r">&nbsp;8,220</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">대신증권<br>임수진</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A049630');">재영솔루텍 <span class="txt1">A049630</span></a><span class="txt2"> -스마트폰 카메라 고급화 수혜 지속, 역대 실적 전망</span></dt>
+                            <dd> 카메라 자동 초점 액추에이터 전문 기업
+</dd><dd> 스마트폰 내 카메라 성능 고급화 지속, 관련 부품 수혜 전망
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;642</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">하나증권<br>최재호</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A051160');">지어소프트 <span class="txt1">A051160</span></a><span class="txt2"> -매출 성장 본격화</span></dt>
+                            <dd> 기업개요: 프리미엄 친환경 유기농 식품 유통기업인 핵심 자회사 오아시스 보유 
+</dd><dd> 1Q25 매출액 1,423억원 (+4.2% YoY), 영업이익 68억원 (+1.3% YoY) 추정 
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;9,490</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">KB증권<br>김현겸</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A052710');">아모텍 <span class="txt1">A052710</span></a><span class="txt2"> -중국 최대 전기차향 MLCC 공급 순항중</span></dt>
+                            <dd> 연간 턴어라운드 가능성이 높아졌음
+</dd><dd> MLCC 사업 진출 햇수로 8년… 무슨 일이 있었나?</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">11,000</span></td>
+                    <td class="r">&nbsp;7,570</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">iM증권<br>고의영</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A055550');">신한지주 <span class="txt1">A055550</span></a><span class="txt2"> -힘을 기르는 중</span></dt>
+                            <dd> 순이익 1.4조원으로 컨센서스 부합. NIM은 2bp 상승
+</dd><dd> 대출 0.9% 증가, 대손율은 0.36%로 전년동기 수준
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">75,000</span></td>
+                    <td class="r">&nbsp;48,100</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한국투자증권<br>백두산</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A062040');">산일전기 <span class="txt1">A062040</span></a><span class="txt2"> -보편관세 불확실성 해소 후 매수타이밍 모색 필요</span></dt>
+                            <dd> 1Q25 영업실적 yoy 대호조 &amp; 당사 및 컨센서스 전망치 부합 전망
+</dd><dd> 2025 년에도 영업실적 yoy 대호조 지속 전망. 종전 전망치 거의 유지
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">82,000</span></td>
+                    <td class="r">&nbsp;51,300</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">LS증권<br>성종화</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A066570');">LG전자 <span class="txt1">A066570</span></a><span class="txt2"> -ESG 경영에 진심인 기업</span></dt>
+                            <dd> ESG 경영 실천을 통해 지속가능 성장기업으로 발전 중 
+</dd><dd> 장기적으로 ESG 경영 성과가 나타날 듯, 주가 저평가 탈출 기대</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">120,000</span></td>
+                    <td class="r">&nbsp;77,900</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">BNK투자증권<br>이민희</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A066970');">엘앤에프 <span class="txt1">A066970</span></a><span class="txt2"> -하반기 주력 고객사 로보택시 상용화 모멘텀</span></dt>
+                            <dd> 자율주행 패러다임 전환은 전통 완성차 OEM들에게 도전과 위협 요인
+</dd><dd> 2025년 하반기 흑자전환 예상</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">100,000</span></td>
+                    <td class="r">&nbsp;59,200</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">iM증권<br>정원석</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A067160');">SOOP <span class="txt1">A067160</span></a><span class="txt2"> -가능성을 보자</span></dt>
+                            <dd> 1Q25 Pre: 컨센서스 부합 전망
+</dd><dd> 라이브 스트리밍, 팬덤과 수익화를 강점으로 성장
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">150,000</span></td>
+                    <td class="r">&nbsp;86,700</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">하나증권<br>이준호</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A069960');">현대백화점 <span class="txt1">A069960</span></a><span class="txt2"> -면세점 사업부 점포 효율화</span></dt>
+                            <dd> 현대백화점은 2025년 8월부터 동대문 면세점의 운영을 종료하고, 무역점 단독 운영 체제로 전환할 계획
+</dd><dd> 주요 목적은 손익 개선으로, 비용 효율화 추진과 함께 무역점/공항점은 고효율 MD 중심으로 개편
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">75,000</span></td>
+                    <td class="r">&nbsp;59,300</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">유진투자증권<br>이해니</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A069960');">현대백화점 <span class="txt1">A069960</span></a><span class="txt2"> -면세 동대문점 운영 종료 Comment</span></dt>
+                            <dd> 2025년 7월 31일부로 면세점 동대문점 운영 종료 공시
+</dd><dd> 적극적인 체질 개선 작업 돋보임</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">70,000</span></td>
+                    <td class="r">&nbsp;59,300</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">LS증권<br>오린아</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A069960');">현대백화점 <span class="txt1">A069960</span></a><span class="txt2"> -현명한 선택</span></dt>
+                            <dd> 면세 사업 Turn-around 전략 발표 
+</dd><dd> 투자의견 매수 유지, 목표주가 84,000원으로 상향</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">84,000</span></td>
+                    <td class="r">&nbsp;59,300</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">유안타증권<br>이승은</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A069960');">현대백화점 <span class="txt1">A069960</span></a><span class="txt2"> -시내면세점 운영 효율화 결정</span></dt>
+                            <dd> 업종 내 가장 편안한 선택지가 될 것
+</dd><dd> 시내면세점 동대문점 철수, 무역점 단독 운영 결정
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">71,000</span></td>
+                    <td class="r">&nbsp;59,300</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">신한투자증권<br>조상훈</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A069960');">현대백화점 <span class="txt1">A069960</span></a><span class="txt2"> -동대문 면세점 철수 결정</span></dt>
+                            <dd> 동대문 면세점 철수 결정
+</dd><dd> 변하는 면세점 산업 환경에 맞춰 무역센터점과 공항점 집중 예정
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">70,000</span></td>
+                    <td class="r">&nbsp;59,300</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">대신증권<br>유정현</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A069960');">현대백화점 <span class="txt1">A069960</span></a><span class="txt2"> -시내면세 축소 결정, 속도 붙는 효율개선 작업</span></dt>
+                            <dd> 시내면세, 기존 무역점/동대문점→무역점 단독 운영으로 변경
+</dd><dd> 백화점, 명품 업고 순항 중
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">85,000</span></td>
+                    <td class="r">&nbsp;59,300</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">미래에셋증권<br>배송이</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A069960');">현대백화점 <span class="txt1">A069960</span></a><span class="txt2"> -1Q25 Preview: 유통에서 가장 마음 편한 선택지</span></dt>
+                            <dd> 동대문 면세점의 영업 중단을 결정
+</dd><dd> 1Q25 Preview: 영업이익이 시장 기대치에 부합할 전망</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">80,000</span></td>
+                    <td class="r">&nbsp;59,300</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한국투자증권<br>김명주</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A069960');">현대백화점 <span class="txt1">A069960</span></a><span class="txt2"> -합리적인 의사 결정</span></dt>
+                            <dd> 시내면세점 운영 효율화 결정 
+</dd><dd> 시내면세점 사업 축소로 실적 가시성 상승 전망</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">75,000</span></td>
+                    <td class="r">&nbsp;59,300</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img best">키움증권<br>박상준</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A071970');">HD현대마린엔진 <span class="txt1">A071970</span></a><span class="txt2"> -1Q25 Preview: 캡티브 수주 개시, 성장 스토리 시작</span></dt>
+                            <dd> 3월에만 계열사로부터 2건, 1,329억원 수주 개시
+</dd><dd> 올해 가동률 90% 안에서 매출 4,369억원(126만마력)으로 성장
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">45,000</span></td>
+                    <td class="r">&nbsp;27,250</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img best">다올투자증권<br>최광식</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A086790');">하나금융지주 <span class="txt1">A086790</span></a><span class="txt2"> -새롭게 시작</span></dt>
+                            <dd> 순이익 1.0조원으로 컨센서스 부합
+</dd><dd> 대출은 1.0% 증가. 대손율은 0.27%로 전년동기대비 1bp 상승
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">93,000</span></td>
+                    <td class="r">&nbsp;61,400</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한국투자증권<br>백두산</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A090430');">아모레퍼시픽 <span class="txt1">A090430</span></a><span class="txt2"> -영업이익률 두 자릿수 안착</span></dt>
+                            <dd> 1Q25 Preview: 컨센서스 상회 예상, 영업이익률 두 자릿수 안착
+</dd><dd> 국내 +1%, 해외 +32% 전망
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">190,000</span></td>
+                    <td class="r">&nbsp;105,900</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">하나증권<br>박은정</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A090430');">아모레퍼시픽 <span class="txt1">A090430</span></a><span class="txt2"> -성장 모멘텀은 여전</span></dt>
+                            <dd> 1Q: 기존 사업은 Good, 코스알엑스는 쉬어 가는 중
+</dd><dd> 코스알엑스 관련 우려는 점진적 해소 예상</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">170,000</span></td>
+                    <td class="r">&nbsp;105,900</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">키움증권<br>조소정</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A090430');">아모레퍼시픽 <span class="txt1">A090430</span></a><span class="txt2"> -매출과 수익성의 밸런스</span></dt>
+                            <dd> 1Q25E 매출액 yoy +9.3%, 영업이익 yoy +27.4% 전망
+</dd><dd> 높아진 수익성 레벨을 바탕으로 자체 브랜드 확대에 집중할 것</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">185,000</span></td>
+                    <td class="r">&nbsp;105,900</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">상상인증권<br>김혜미</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A095660');">네오위즈 <span class="txt1">A095660</span></a><span class="txt2"> -P의거짓 DLC는 성장의 서곡</span></dt>
+                            <dd> 1분기 매출액 909억원(-8%yoy), 영업이익 72억원(-52%yoy)으로 컨센서스(67억원) 소폭 상회할 전망
+</dd><dd> 올해 동사의 기대작은 3분기 출시 예정인 P의거짓 DLC ＇P의거짓: 서곡＇. 200만장 이상의 누적 판매량과 출시 이래 꾸준한 매출 발생을 감안하여, DLC 판매량은 50만장으로 추정</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">28,000</span></td>
+                    <td class="r">&nbsp;22,500</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">유진투자증권<br>정의훈</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A103140');">풍산 <span class="txt1">A103140</span></a><span class="txt2"> -지금까진 신동이 이끌었고 다시 방산 차례</span></dt>
+                            <dd> 투자의견 Buy,  목표주가 80,000원으로 상향 
+</dd><dd> 1Q25: 신동 부문 메탈 게인 기대 
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">80,000</span></td>
+                    <td class="r">&nbsp;62,300</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">KB증권<br>최용현</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A103140');">풍산 <span class="txt1">A103140</span></a><span class="txt2"> -긍정적 환경 지속 중</span></dt>
+                            <dd> 1Q25 컨센서스 부합 예상
+</dd><dd> 긍정적 환경 지속 중</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">89,000</span></td>
+                    <td class="r">&nbsp;62,300</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">DB금융투자<br>안회수</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A105560');">KB금융 <span class="txt1">A105560</span></a><span class="txt2"> -높은 이익증가율, 추가 주주환원 기대감 제고</span></dt>
+                            <dd> 높은 이익증가율, 2025년 최대실적 전망 
+</dd><dd> 초과자본에 대한 추가 주주환원 기대감 높아질 것 
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">126,000</span></td>
+                    <td class="r">&nbsp;79,600</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">키움증권<br>김은갑</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A105560');">KB금융 <span class="txt1">A105560</span></a><span class="txt2"> -우려가 과도한 상황</span></dt>
+                            <dd> 추가 충당금에도 불구 순이익은 1.57조원으로 컨센서스 부합
+</dd><dd> 전분기대비 NIM은 1bp 상승, 대출은 0.7% 증가
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">121,000</span></td>
+                    <td class="r">&nbsp;79,600</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한국투자증권<br>백두산</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A105630');">한세실업 <span class="txt1">A105630</span></a><span class="txt2"> -아직은 밋밋한 오더 동향</span></dt>
+                            <dd> 길게 보면 저점 매수 구간
+</dd><dd> 1Q25 Preview: 환 효과 제거 시 밋밋</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">17,000</span></td>
+                    <td class="r">&nbsp;11,030</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">NH투자증권<br>정지윤</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A111770');">영원무역 <span class="txt1">A111770</span></a><span class="txt2"> -어려울 때 나는 실력차이</span></dt>
+                            <dd> 불황에도 추정치가 지속 상향되는 종목
+</dd><dd> 1Q25 Preview: 본업은 순항 중</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">58,000</span></td>
+                    <td class="r">&nbsp;48,250</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">NH투자증권<br>정지윤</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A138930');">BNK금융지주 <span class="txt1">A138930</span></a><span class="txt2"> -아쉬움을 뒤로 하고</span></dt>
+                            <dd> 순이익 1,957억원으로 컨센서스 16% 하회
+</dd><dd> NIM 2bp 하락, 대출 1.2% 증가
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">13,000</span></td>
+                    <td class="r">&nbsp;10,450</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한국투자증권<br>백두산</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A139130');">DGB금융지주 <span class="txt1">A139130</span></a><span class="txt2"> -실적 턴어라운드와 PF에 대한 불확실성 사이</span></dt>
+                            <dd> 순이익 1,388억원으로 컨센서스 5% 상회
+</dd><dd> NIM은 1bp 하락, 대출은 0.4% 증가
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">중립</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;9,050</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한국투자증권<br>백두산</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A139130');">DGB금융지주 <span class="txt1">A139130</span></a><span class="txt2"> -경상적 이익 회복 및 CET 1 12% 달성을 통한 신뢰 회복이 중요</span></dt>
+                            <dd> 1Q25 Preview: 비이자이익 증가와 대손비용 감소로 +17%YoY 예상 
+</dd><dd> 투자의견 BUY 및 목표주가 11,000원 유지</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">11,000</span></td>
+                    <td class="r">&nbsp;9,050</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img best">BNK투자증권<br>김인</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A139480');">이마트 <span class="txt1">A139480</span></a><span class="txt2"> -Make E-mart Great Again</span></dt>
+                            <dd> 드디어 맞춰진 마지막 퍼즐 조각, 투자의견 상향
+</dd><dd> 1Q25 Preview: 시작되는 체질 개선 효과
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">100,000</span></td>
+                    <td class="r">&nbsp;80,200</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">신한투자증권<br>조상훈</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A175330');">JB금융지주 <span class="txt1">A175330</span></a><span class="txt2"> -큰 틀에서 순항 중</span></dt>
+                            <dd> 순이익은 1,666억원으로 컨센서스 8% 하회
+</dd><dd> NIM은 4bp 하락, 대출은 0.8% 증가
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">21,000</span></td>
+                    <td class="r">&nbsp;18,220</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한국투자증권<br>백두산</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A175330');">JB금융지주 <span class="txt1">A175330</span></a><span class="txt2"> -2025년 최대실적 지속과 총주주환원율 업종 내 최고인 45% 예상</span></dt>
+                            <dd> 1Q25 Preview: 보수적 추가 충당금적립으로 소폭 감소 예상</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">25,000</span></td>
+                    <td class="r">&nbsp;18,220</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img best">BNK투자증권<br>김인</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A178920');">PI첨단소재 <span class="txt1">A178920</span></a><span class="txt2"> -초극박 필름 납품 시작+온디바이스AI 수혜 지속</span></dt>
+                            <dd> 1Q25 Preview: 영업이익 기준 컨센서스 +24.9% 상회 전망 
+</dd><dd> 스마트폰 트렌드 변화(슬림화 + 온디바이스AI) 주도 중</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">29,000</span></td>
+                    <td class="r">&nbsp;16,490</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">메리츠증권<br>양승수</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A205100');">엑셈 <span class="txt1">A205100</span></a><span class="txt2"> -국내 DBPM 솔루션 M/S 1위</span></dt>
+                            <dd> 안정성: 유지보수 매출액 기반 안정적인 매출액 상승 흐름
+</dd><dd> 성장성: 2H25 클라우드 통합 모니터링 SaaS 출시</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="신규" class="gp_img new">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="신규" class="gp_img new">2,700</span></td>
+                    <td class="r">&nbsp;1,847</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">LS증권<br>정우성</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A234690');">녹십자웰빙 <span class="txt1">A234690</span></a><span class="txt2"> -[다시봐] 금석위개(金石爲開)</span></dt>
+                            <dd> 라이넥: 24.10월 환자 투여가 시작되었다. 올해 하이난내 중국인들 대상 임상 진행, 26년 이후 본토 판매를 추진할 예정
+</dd><dd> 이니바이오: 국내 위주의 사업을 통해 낮은 밸류에이션에 대한 인식을 탈피할 것으로 기대된다
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;8,390</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">유안타증권<br>권명준</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A247540');">에코프로비엠 <span class="txt1">A247540</span></a><span class="txt2"> -여전히 높은 밸류에이션 부담</span></dt>
+                            <dd> 자율주행 패러다임 전환은 전통 완성차 OEM들에게 도전과 위협 요인
+</dd><dd> 2025년 완만한 실적 회복세 전망
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">HOLD</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="하향" class="gp_img down">90,000</span></td>
+                    <td class="r">&nbsp;95,700</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">iM증권<br>정원석</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A259960');">크래프톤 <span class="txt1">A259960</span></a><span class="txt2"> -2025년에도 기대해도 좋음</span></dt>
+                            <dd> 또 성장해?
+</dd><dd> 기대치를 상회하는 1분기 실적 추정</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">550,000</span></td>
+                    <td class="r">&nbsp;340,000</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img best">NH투자증권<br>안재민</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A263860');">지니언스 <span class="txt1">A263860</span></a><span class="txt2"> -AI 시대, 사이버 보안 시장 중요성은 더욱 부각. 모건스탠리 자회사 5% 지분 취득은 이유있는 매</span></dt>
+                            <dd> 지난해 UAE에서 열린 중동 최대 ICT 박람회 참가해 PoC 계약 등 성과 거둬
+</dd><dd> 2대주주 Miri Capital 지분 15.12%, 첫 자사주 소각 실시, 현재 PER은 밴드 하단
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;12,060</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">밸류파인더<br>이충헌</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A278470');">에이피알 <span class="txt1">A278470</span></a><span class="txt2"> -강력한 해외 성장 모멘텀</span></dt>
+                            <dd> 1Q: 기존 예상보다 강한 성장 모멘텀
+</dd><dd> 현실화 되는 성장 목표치</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">86,000</span></td>
+                    <td class="r">&nbsp;70,700</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">키움증권<br>조소정</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A298380');">에이비엘바이오 <span class="txt1">A298380</span></a><span class="txt2"> -담도암 임상 2/3상 긍정적 임상결과 발표</span></dt>
+                            <dd> 파트너사 발표 후 18% 상승, 긍정적 추가 발표 기대
+</dd><dd> 생존 데이터 기존 치료제 대비 우위 기대</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;36,800</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">신한투자증권<br>엄민용</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A298380');">에이비엘바이오 <span class="txt1">A298380</span></a><span class="txt2"> -가속승인은 4Q25 추가 데이터 확인 필요할 것</span></dt>
+                            <dd> 기대 대비 저조했던 ORR 약 17.1%
+</dd><dd> 가속승인은 당장 가능한가? 불확실성 확대
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;36,800</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">DS투자증권<br>김민정</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A305090');">마이크로디지탈 <span class="txt1">A305090</span></a><span class="txt2"> -알고 보니 든든한 뒷배, 판이 달라졌다!</span></dt>
+                            <dd> Parker Hannifin과 협업이 갖는 의미
+</dd><dd> 트럼프 2.0 미국 진출이 중요하다
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">27,000</span></td>
+                    <td class="r">&nbsp;8,950</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">IBK투자증권<br>이건재</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A316140');">우리금융지주 <span class="txt1">A316140</span></a><span class="txt2"> -CET1 비율 조기 달성에 따른 주주환원 정책 확대 가능성에 주목</span></dt>
+                            <dd> CET1 비율 조기 달성에 따른 주주환원 정책 확대 가능성에 주목
+</dd><dd> 업종내 Top picks 유지</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">22,000</span></td>
+                    <td class="r">&nbsp;16,800</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">교보증권<br>김지영</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A316140');">우리금융지주 <span class="txt1">A316140</span></a><span class="txt2"> -치열하게 고민 중</span></dt>
+                            <dd> 순이익 6,957억원으로 컨센서스 9% 하회
+</dd><dd> NIM은 2bp 상승. 대출은 0.5% 감소
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">20,000</span></td>
+                    <td class="r">&nbsp;16,800</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">한국투자증권<br>백두산</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A373220');">LG에너지솔루션 <span class="txt1">A373220</span></a><span class="txt2"> -탄탄한 고객 포트폴리오 기반 성장세 전망</span></dt>
+                            <dd> 자율주행 상용화가 전기차 시장과 배터리 산업 견인할 전망
+</dd><dd> 견조한 미국 주력 고객사 배터리 수요로 1Q25 양호한 실적 예상
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">BUY</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">450,000</span></td>
+                    <td class="r">&nbsp;328,000</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">iM증권<br>정원석</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A453340');">현대그린푸드 <span class="txt1">A453340</span></a><span class="txt2"> -1분기 방어주</span></dt>
+                            <dd> 1분기 실적 선방 기대
+</dd><dd> 해외 사업부 확대 그리고 군 급식 시장 개화 가능성
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">25,000</span></td>
+                    <td class="r">&nbsp;14,670</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">IBK투자증권<br>남성현</span></td>
+                </tr>
+                            
+                <tr class="zigbg_in">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A458650');">성우 <span class="txt1">A458650</span></a><span class="txt2"> -4680 배터리 시장 내 입지 강화</span></dt>
+                            <dd> 글로벌 원통형 2차전지 부품 제조기업
+</dd><dd> 4680 배터리 시장 확대 전망
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;Not Rated</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;</span></td>
+                    <td class="r">&nbsp;15,700</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">하나증권<br>한유건</span></td>
+                </tr>
+                            
+                <tr class="">
+                    <td class="clf c"><span class="yy1">20</span><span class="yy2">25</span>/04/02</td>
+                    <td class="l nopre">
+                        <dl class="um_tdinsm">
+                            <dt><a href="javascript:ViewReport('A004020');">현대제철 <span class="txt1">A004020</span></a><span class="txt2"> -단기 실적 회복이라는 마지막 퍼즐</span></dt>
+                            <dd> 나올 이슈는 다 나왔다. 이제 숫자로 증명할 때
+</dd><dd> 1Q25 영업이익 91억원(+흑자전환 QoQ)으로 시장 기대치 하회 예상
+</dd>
+                        </dl>
+                    </td>
+                    <td class="c nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="유지" class="gp_img hold">매수</span></td>
+                    <td class="r nopre2"><span class="gpbox">&nbsp;<img src="../img/shbg.png" alt="상향" class="gp_img up">30,000</span></td>
+                    <td class="r">&nbsp;24,600</td>
+                    <td class="cle c nopre2"><span class="gpbox"><img src="../img/shbg.png" alt="베스트" class="gp_img ">신한투자증권<br>박광래</span></td>
+                </tr>
+                </tbody>
+						</table>
