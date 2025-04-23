@@ -1,6 +1,7 @@
 import streamlit as st
 import sqlite3
 import pandas as pd
+from datetime import datetime, timedelta # Import timedelta
 
 # Streamlit 앱 설정
 st.set_page_config(
@@ -11,129 +12,172 @@ st.set_page_config(
 )
 
 # 데이터베이스 연결 함수
+@st.cache_resource # Cache the connection
 def get_db_connection():
-    conn = sqlite3.connect("main_db.db")
+    conn = sqlite3.connect("main_db.db", check_same_thread=False) # Allow multithreading for Streamlit
     return conn
 
-# 데이터베이스에서 데이터 가져오는 함수
-def load_data(table_name, conn):
+# --- Helper function to get min/max dates ---
+@st.cache_data # Cache the result of this function
+def get_min_max_report_dates(_conn):
+    """Fetches the minimum and maximum report dates from the database."""
     try:
+        min_date_str = pd.read_sql_query("SELECT MIN(report_date) FROM stock_report", _conn).iloc[0, 0]
+        max_date_str = pd.read_sql_query("SELECT MAX(report_date) FROM stock_report", _conn).iloc[0, 0]
+        if min_date_str and max_date_str:
+            min_date = pd.to_datetime(min_date_str, format='%Y%m%d').date()
+            max_date = pd.to_datetime(max_date_str, format='%Y%m%d').date()
+            return min_date, max_date
+        else:
+            # Provide a default range if table is empty or dates are null
+            today = datetime.today().date()
+            return today - timedelta(days=30), today
+    except Exception as e:
+        st.error(f"Error fetching date range: {e}")
+        today = datetime.today().date()
+        return today - timedelta(days=30), today
+
+# 데이터베이스에서 데이터 가져오는 함수 (수정됨)
+@st.cache_data # Cache the data loading based on inputs
+def load_data(_conn, start_date_str, end_date_str):
+    """Loads stock report data from the database within a specific date range."""
+    try:
+        # Base query structure remains the same
         query = f"""
-        select 
+        SELECT
             report_date,
-            stock_code,
+            --stock_code, -- 주석 처리 유지 (이전 요청 반영)
             stock_name,
             report_opinion,
             stock_goal,
+            last_close_price,
             close_price,
             max_price,
-            last_close_price,
-            round(((stock_goal - last_close_price)/last_close_price)*100) up_per,
-            report_analyst_grade,
+            CASE
+                WHEN last_close_price IS NOT NULL AND last_close_price != 0 THEN ROUND(((stock_goal - last_close_price) / last_close_price) * 100)
+                ELSE NULL -- Or 0, depending on how you want to handle division by zero or null
+            END AS up_per,
             report_comp,
             report_analyst,
-            aog
-        from (
-                select sr.report_date,
-                    sr.stock_code,
-                    sl.stock_name,
-                    sr.report_opinion,
-                    cast(sr.stock_goal as float) stock_goal,
-                    cast((select stock_price from stock_hst where stock_code = sr.stock_code and stock_Date = sr.report_date) as float) close_price,
-                    cast((select stock_price from stock_hst where stock_code = sr.stock_code and stock_date = (select max(stock_date) from stock_hst where stock_code = sr.stock_code)) as flost) last_close_price,
-                    cast((select max(stock_max_price) from stock_hst where stock_code = sr.stock_code and stock_date >= sr.report_date) as flost) max_price,
-                    sr.report_analyst_grade,
-                    sr.report_comp,
-                    sr.report_analyst,
-                    (select min(stock_date) from stock_hst where stock_code = sr.stock_code and stock_date >= sr.report_date and cast(stock_max_price as integer) >= cast(sr.stock_goal as integer)) aog
-                from stock_report sr, stock_list sl
-                where sr.stock_code = sl.stock_code
-                and sr.report_date >= ((select max(report_date) from stock_report) - 7)
-        ) order by report_date desc
+            report_analyst_grade,
+            aog -- This is the achievement date column
+        FROM (
+            SELECT
+                sr.report_date,
+                sr.stock_code,
+                sl.stock_name,
+                sr.report_opinion,
+                CAST(sr.stock_goal AS FLOAT) AS stock_goal,
+                CAST((SELECT stock_price FROM stock_hst WHERE stock_code = sr.stock_code AND stock_Date = sr.report_date) AS FLOAT) AS close_price,
+                CAST((SELECT stock_price FROM stock_hst WHERE stock_code = sr.stock_code AND stock_date = (SELECT MAX(stock_date) FROM stock_hst WHERE stock_code = sr.stock_code)) AS FLOAT) AS last_close_price,
+                CAST((SELECT MAX(stock_max_price) FROM stock_hst WHERE stock_code = sr.stock_code AND stock_date >= sr.report_date) AS FLOAT) AS max_price,
+                sr.report_analyst_grade,
+                sr.report_comp,
+                sr.report_analyst,
+                (SELECT MIN(stock_date) FROM stock_hst WHERE stock_code = sr.stock_code AND stock_date >= sr.report_date AND CAST(stock_max_price AS INTEGER) >= CAST(sr.stock_goal AS INTEGER)) AS aog
+            FROM stock_report sr
+            JOIN stock_list sl ON sr.stock_code = sl.stock_code
+            -- Apply date filtering within the subquery or outer query
+            WHERE sr.report_date >= ? AND sr.report_date <= ?
+        )
+        ORDER BY report_date DESC
         """
-        df = pd.read_sql_query(query, conn)
+        # Use parameterized query to prevent SQL injection
+        params = (start_date_str, end_date_str)
+        df = pd.read_sql_query(query, _conn, params=params)
+
         return df
     except Exception as e:
-        st.error(f"Error loading data from {table_name}: {e}")
-        return None
+        st.error(f"Error loading data: {e}")
+        return pd.DataFrame() # Return empty DataFrame on error
 
-# 메인 앱
+# 메인 앱 (수정됨)
 def main():
-    st.title("Stock Data Viewer")
+    st.title("📈 Find Insight - Stock Report Viewer")
 
     conn = get_db_connection()
 
-    # 사이드바에서 테이블 선택
-    st.sidebar.header("Table Selection")
-    table_options = ["stock_hst", "stock_report", "stock_analyst_rate"]
-    selected_table = st.sidebar.selectbox("Select a table:", table_options)
+    st.sidebar.header("조회 조건")
 
-    # 선택된 테이블 데이터 로드
-    df = load_data(selected_table, conn)
+    # --- Date Range Selection ---
+    min_db_date, max_db_date = get_min_max_report_dates(conn)
+    default_start_date = max(min_db_date, max_db_date - timedelta(days=0))
 
-    if df is not None:
-        # 데이터 표시
-        st.subheader(f"Data from {selected_table}")
-        st.dataframe(df, use_container_width=True)
+    date_range = st.sidebar.date_input(
+        "조회일자",
+        value=(default_start_date, max_db_date), # Default value tuple (start, end)
+        min_value=min_db_date,
+        max_value=max_db_date,
+        key="date_selector" # Add a key for stability
+    )
 
-        # 데이터 요약
-        st.subheader("Data Summary")
-        st.write(df.describe())
+    start_date = None
+    end_date = None
+    if len(date_range) == 2:
+        start_date, end_date = date_range
+        start_date_str = start_date.strftime('%Y%m%d')
+        end_date_str = end_date.strftime('%Y%m%d')
+    else:
+        st.sidebar.warning("Please select a valid date range (start and end date).")
+        st.stop() # Stop execution if date range is not valid
 
-        # 데이터 필터링
-        st.sidebar.header("Data Filtering")
-        if selected_table == "stock_hst":
-            # stock_hst 테이블 필터링
-            stock_codes = df["stock_code"].unique().tolist()
-            selected_stock_code = st.sidebar.selectbox("Select Stock Code", ["All"] + stock_codes)
-            if selected_stock_code != "All":
-                df = df[df["stock_code"] == selected_stock_code]
+    # --- Load Data Based on Selected Date Range ---
+    df = load_data(conn, start_date_str, end_date_str)
 
-            date_range = st.sidebar.date_input("Select Date Range", [df["stock_date"].min(), df["stock_date"].max()])
-            if len(date_range) == 2:
-                start_date, end_date = date_range
-                df = df[(df["stock_date"] >= start_date.strftime('%Y%m%d')) & (df["stock_date"] <= end_date.strftime('%Y%m%d'))]
+    if df is not None and not df.empty:
+        # --- Rename Columns ---
+        # Ensure the column name for achievement date ('aog' from query) is '달성일자'
+        df.columns = ['일자','종목명','의견','목표가','최근종가','분석일종가','최고가','상승률','증권사','분석가','등급','달성일자']
 
-        elif selected_table == "stock_report":
-            # stock_report 테이블 필터링
-            report_comps = df["report_comp"].unique().tolist()
-            selected_report_comp = st.sidebar.selectbox("Select Report Company", ["All"] + report_comps)
-            if selected_report_comp != "All":
-                df = df[df["report_comp"] == selected_report_comp]
+        # --- Sidebar Filters ---
 
-            stock_codes = df["stock_code"].unique().tolist()
-            selected_stock_code = st.sidebar.selectbox("Select Stock Code", ["All"] + stock_codes)
-            if selected_stock_code != "All":
-                df = df[df["stock_code"] == selected_stock_code]
+        # Company Filter
+        report_comps = ["All"] + sorted(df["증권사"].astype(str).unique().tolist())
+        selected_report_comp = st.sidebar.selectbox("증권사", report_comps, key="comp_selector")
+        if selected_report_comp != "All":
+            df_filtered = df[df["증권사"] == selected_report_comp].copy()
+        else:
+            df_filtered = df.copy()
 
-            date_range = st.sidebar.date_input("Select Date Range", [pd.to_datetime(df["report_date"], format='%Y%m%d').min(), pd.to_datetime(df["report_date"], format='%Y%m%d').max()])
-            if len(date_range) == 2:
-                start_date, end_date = date_range
-                df['report_date'] = pd.to_datetime(df['report_date'], format='%Y%m%d')
-                df = df[(df["report_date"] >= start_date) & (df["report_date"] <= end_date)]
-                df['report_date'] = df['report_date'].dt.strftime('%Y%m%d')
+        # Stock Name Filter (applied to potentially company-filtered data)
+        stock_names = ["All"] + sorted(df_filtered["종목명"].astype(str).unique().tolist())
+        selected_stock_name = st.sidebar.selectbox("종목선택", stock_names, key="stock_selector")
+        if selected_stock_name != "All":
+            # Apply filter to the already filtered dataframe
+            df_filtered = df_filtered[df_filtered["종목명"] == selected_stock_name].copy()
 
-        elif selected_table == "stock_analyst_rate":
-            # stock_analyst_rate 테이블 필터링
-            report_comps = df["report_comp"].unique().tolist()
-            selected_report_comp = st.sidebar.selectbox("Select Report Company", ["All"] + report_comps)
-            if selected_report_comp != "All":
-                df = df[df["report_comp"] == selected_report_comp]
+        st.sidebar.header("", divider=True)
 
-            report_analysts = df["report_analyst"].unique().tolist()
-            selected_report_analyst = st.sidebar.selectbox("Select Report Analyst", ["All"] + report_analysts)
-            if selected_report_analyst != "All":
-                df = df[df["report_analyst"] == selected_report_analyst]
+        # --- NEW: Achievement Date Filter Checkbox ---
+        show_achieved_only = st.sidebar.checkbox("목표 달성 건만 보기", key="achieved_only_checkbox")
+        if show_achieved_only:
+            # Filter rows where '달성일자' is not null/NaN
+            # pd.notna() correctly handles None, NaN, NaT (Not a Time)
+            df_filtered = df_filtered[pd.notna(df_filtered['달성일자'])].copy()
 
-        # 필터링된 데이터 표시
-        st.subheader("Filtered Data")
-        st.dataframe(df, use_container_width=True)
+        # --- Display Filtered Data ---
+        st.subheader(f"Stock Reports from {start_date.strftime('%Y-%m-%d')} to {end_date.strftime('%Y-%m-%d')}")
+        # Display active filters
+        if selected_report_comp != "All":
+            st.write(f"**증권사:** {selected_report_comp}")
+        if selected_stock_name != "All":
+            st.write(f"**종목명:** {selected_stock_name}")
+        if show_achieved_only: # Show if the checkbox filter is active
+             st.write(f"**필터:** 달성 완료")
 
-        # 필터링된 데이터 요약
-        st.subheader("Filtered Data Summary")
-        st.write(df.describe())
+        # Display the final filtered DataFrame
+        # If you want the clickable rows and popup from the previous step,
+        # you would replace st.dataframe with the AgGrid implementation here.
+        # For now, keeping st.dataframe as per the current file structure.
+        st.dataframe(df_filtered, use_container_width=True)
 
-    conn.close()
+        st.info(f"Displaying {len(df_filtered)} records.")
+
+    elif df is not None and df.empty:
+        st.warning(f"No stock report data found between {start_date.strftime('%Y-%m-%d')} and {end_date.strftime('%Y-%m-%d')}.")
+    else:
+        # Error handled in load_data
+        st.error("Failed to load data. Please check the logs or database connection.")
 
 if __name__ == "__main__":
     main()
