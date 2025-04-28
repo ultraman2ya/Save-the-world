@@ -5,65 +5,156 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Stock Reports</title>
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css">
-    <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
-    <script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
+    <!-- Optional: Add styling for date inputs if needed -->
     <style>
         body {
             font-family: sans-serif;
+            padding: 20px; /* Add some padding */
         }
         table {
             width: 100%;
+            margin-top: 20px; /* Add space below filters */
+        }
+        .filter-controls {
+            margin-bottom: 15px;
+            display: flex; /* Arrange controls nicely */
+            align-items: center; /* Align items vertically */
+            gap: 10px; /* Add space between elements */
+        }
+        .filter-controls label {
+            margin-right: 5px;
+        }
+        .filter-controls input[type="date"] {
+            padding: 5px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        .filter-controls button {
+            padding: 6px 12px;
+            cursor: pointer;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 4px;
+        }
+        .filter-controls button:hover {
+            background-color: #0056b3;
         }
     </style>
 </head>
 <body>
     <h1>Stock Reports</h1>
-    <table id="stockReportTable" class="display">
+
+    <!-- Date Filter Controls -->
+    <div class="filter-controls">
+        <label for="startDate">시작일:</label>
+        <input type="date" id="startDate">
+
+        <label for="endDate">종료일:</label>
+        <input type="date" id="endDate">
+
+        <button id="filterButton">조회</button>
+    </div>
+
+    <table id="stockReportTable" class="display" style="width:100%">
         <thead>
             <tr>
-                <th>'발행일자'</th>
-                <th>'종목코드'</th>
-                <th>'종목명'</th>
-                <th>'투자의견'</th>
-                <th>'목표가'</th>
-                <th>'당일종가'</th>
-                <th>'당일이후최고가'</th>
-                <th>'최신종가'</th>
-                <th>'상승률'</th>
-                <th>'등급'</th>
-                <th>'회사명'</th>
-                <th>'분석자'</th>
-                <th>'목표달성여부'</th>
+                <!-- Consider removing single quotes if they are not part of the actual header text -->
+                <th>발행일자</th>
+                <th>종목명</th>
+                <th>투자의견</th>
+                <th>목표가</th>
+                <th>당일종가</th>
+                <th>당일이후최고가</th>
+                <th>최신종가</th>
+                <th>상승률</th>
+                <th>등급</th>
+                <th>회사명</th>
+                <th>분석자</th>
+                <th>목표달성여부</th>
             </tr>
         </thead>
         <tbody>
-            <!-- Data will be loaded here -->
+            <!-- Data will be loaded here by DataTables -->
         </tbody>
     </table>
 
+    <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+    <script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
     <script>
         $(document).ready(function() {
-            $('#stockReportTable').DataTable({
+            // --- Optional: Set Default Dates (e.g., last 30 days) ---
+            const today = new Date();
+            const endDateDefault = today.toISOString().split('T')[0]; // YYYY-MM-DD
+            today.setDate(today.getDate() - 30); // Go back 30 days
+            const startDateDefault = today.toISOString().split('T')[0]; // YYYY-MM-DD
+
+            $('#startDate').val(startDateDefault);
+            $('#endDate').val(endDateDefault);
+            // --- End Optional Default Dates ---
+
+
+            // Initialize DataTable
+            const table = $('#stockReportTable').DataTable({
+                processing: true, // Show processing indicator
+                // serverSide: true, // Uncomment if your backend handles pagination/sorting/searching
                 ajax: {
                     url: '/api/stock_reports',
-                    dataSrc: ''
+                    dataSrc: '', // Adjust if your JSON data is nested
+                    // --- Send date parameters with the AJAX request ---
+                    data: function ( d ) {
+                        // 'd' is the object DataTables sends by default
+                        // Add the current values from the date inputs
+                        d.start_date = $('#startDate').val();
+                        d.end_date = $('#endDate').val();
+                        // The backend API (/api/stock_reports) needs to read these parameters
+                    }
                 },
                 columns: [
-                    { data: '발행일자' },
-                    { data: '종목코드' },
-                    { data: '종목명' },
-                    { data: '투자의견' },
-                    { data: '목표가' },
-                    { data: '종가' },
-                    { data: '최고가' },
-                    { data: '최신종가' },
-                    { data: '상승률' },
-                    { data: '등급' },
-                    { data: '회사명' },
-                    { data: '분석자' },
-                    { data: '목표달성여부' }
-                ]
+                    // Ensure 'data' matches the keys in the JSON returned by your API
+                    { data: 'report_date' },     // Assuming API returns 'report_date'
+                    { data: 'stock_name' },      // Assuming API returns 'stock_name'
+                    { data: 'report_opinion' },  // etc.
+                    { data: 'stock_goal' },
+                    { data: 'close_price' },     // Adjust key names as needed
+                    { data: 'max_price' },
+                    { data: 'last_close_price' },
+                    { data: 'up_per' },
+                    { data: 'report_analyst_grade' },
+                    { data: 'report_comp' },
+                    { data: 'report_analyst' },
+                    { data: 'aog' }              // Assuming 'aog' is the achievement status key
+                ],
+                // Optional: Add default ordering, e.g., by date descending
+                order: [[0, 'desc']]
             });
+
+            // --- Filter Button Click Handler ---
+            $('#filterButton').on('click', function() {
+                // Reload the DataTable data
+                // This will trigger a new AJAX request using the 'ajax.data' function
+                // which will include the current date input values.
+                table.ajax.reload();
+            });
+
+            // --- Optional: Make 종목명 clickable ---
+            // This requires your API to also return 'stock_code'
+            /*
+            If your API returns 'stock_code', you can modify the '종목명' column definition:
+            {
+                data: 'stock_name',
+                render: function(data, type, row, meta) {
+                    if (type === 'display' && row.stock_code) {
+                        // Assuming row object has 'stock_code' and 'stock_name' (data)
+                        const url = `https://finance.naver.com/item/main.naver?code=${row.stock_code}`;
+                        return `<a href="${url}" target="_blank">${data}</a>`;
+                    }
+                    return data; // Return plain name otherwise
+                }
+            },
+            */
+            // --- End Optional Clickable Link ---
+
         });
     </script>
 </body>

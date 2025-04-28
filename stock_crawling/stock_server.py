@@ -12,7 +12,7 @@ def get_stock_report_data():
     cursor.execute("""
         select 
             report_date,
-            stock_code,
+            --stock_code,
             stock_name,
             report_opinion,
             stock_goal,
@@ -51,18 +51,17 @@ def get_stock_report_data():
     for row in rows:
         data.append({
             '발행일자' : row[0],
-            '종목코드' : row[1],
-            '종목명' : row[2],
-            '투자의견' : row[3],
-            '목표가' : row[4],
-            '종가' : row[5],
-            '최고가' : row[6],
-            '최신종가' : row[7],
-            '상승률' : row[8],
-            '등급' : row[9],
-            '회사명' : row[10],
-            '분석자' : row[11],
-            '목표달성여부': row[12],
+            '종목명' : row[1],
+            '투자의견' : row[2],
+            '목표가' : row[3],
+            '종가' : row[4],
+            '최고가' : row[5],
+            '최신종가' : row[6],
+            '상승률' : row[7],
+            '등급' : row[8],
+            '회사명' : row[9],
+            '분석자' : row[10],
+            '목표달성여부': row[11],
         })
     return data
             

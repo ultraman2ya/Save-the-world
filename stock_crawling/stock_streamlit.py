@@ -40,7 +40,7 @@ def get_min_max_report_dates(_conn):
 
 # 데이터베이스에서 데이터 가져오는 함수 (stock_code 포함)
 @st.cache_data # Cache the data loading based on inputs
-def load_data(_conn, start_date_str, end_date_str):
+def load_data(_conn, start_date_str, end_date_str, input_stock_name):
     """Loads stock report data from the database within a specific date range."""
     try:
         query = f"""
@@ -78,10 +78,15 @@ def load_data(_conn, start_date_str, end_date_str):
             FROM stock_report sr
             JOIN stock_list sl ON sr.stock_code = sl.stock_code
             WHERE sr.report_date >= ? AND sr.report_date <= ?
-        )
-        -- ORDER BY report_date DESC -- AgGrid에서 정렬하므로 제거
+        
         """
-        params = (start_date_str, end_date_str)
+        if input_stock_name:
+            query += f" AND sl.stock_name LIKE '%{input_stock_name}%')"
+            params = (start_date_str, end_date_str)
+        else:
+            query += ")"
+            params = (start_date_str, end_date_str)
+
         df = pd.read_sql_query(query, _conn, params=params)
 
         # 숫자형 컬럼 변환
@@ -126,8 +131,10 @@ def main():
         st.sidebar.warning("Please select a valid date range (start and end date).")
         st.stop()
 
+    input_stock_name = st.sidebar.text_input("종목명","")
+
     # --- Load Data ---
-    df = load_data(conn, start_date_str, end_date_str)
+    df = load_data(conn, start_date_str, end_date_str, input_stock_name)
 
     if df is not None and not df.empty:
         # --- Rename Columns (stock_code 포함, 원본 종목명 유지) ---
