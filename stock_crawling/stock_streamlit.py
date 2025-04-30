@@ -80,13 +80,13 @@ def load_data(_conn, start_date_str, end_date_str, input_stock_name):
             WHERE sr.report_date >= ? AND sr.report_date <= ?
         
         """
+        params = (start_date_str, end_date_str)
+
         if input_stock_name:
             query += f" AND sl.stock_name LIKE '%{input_stock_name}%')"
-            params = (start_date_str, end_date_str)
         else:
             query += ")"
-            params = (start_date_str, end_date_str)
-
+            
         df = pd.read_sql_query(query, _conn, params=params)
 
         # 숫자형 컬럼 변환
@@ -131,7 +131,7 @@ def main():
         st.sidebar.warning("Please select a valid date range (start and end date).")
         st.stop()
 
-    input_stock_name = st.sidebar.text_input("종목명","")
+    input_stock_name = st.sidebar.text_input("종목명")
 
     # --- Load Data ---
     df = load_data(conn, start_date_str, end_date_str, input_stock_name)
@@ -249,7 +249,7 @@ def main():
                 update_mode=GridUpdateMode.MODEL_CHANGED,
                 fit_columns_on_grid_load=False,
                 enable_enterprise_modules=False,
-                height=900,
+                height=600,
                 width='100%',
                 reload_data=True,
                 # *** JsCode 사용 시 이 옵션을 True로 설정해야 합니다 ***
